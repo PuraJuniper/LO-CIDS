@@ -1,0 +1,52 @@
+{
+    "@context": {
+        "caco": "http://ontology.eil.utoronto.ca/CAO/caco#",
+        "cafo": "http://ontology.eil.utoronto.ca/CAO/cafo#",
+        "sch": "http://schema.org/",
+        "org": "http://ontology.eil.utoronto.ca/organization#",
+        "ic": "http://ontology.eil.utoronto.ca/icontact#",
+        "uwgt": "https://www.unitedwaygt.org/LD#"
+    },
+    
+        "@type": "Indicator",
+        "rdfs:subClassOf": "",
+        "definedBy": "",
+        "forOutcome": "",
+        "usesOutput": "",
+        "hasBaseline": "",
+        "hasThreshold": "",
+        "prov:wasGeneratedBy": "",
+        "dcat:dataset": "",
+        "hasIndicatorReport": "",
+        "hasAccess": "",
+        "hasIndicatorStandard": "",
+        "dqv:target": "",
+        "sch:name": "",
+        "sch:description": "",
+        "sch:dateCreated": ""
+    
+    {
+        "@type": "IndicatorStandard",
+        "forOrganization": "",
+        "sch:identifier": "",
+        "sch:name": "",
+        "sch:description": "",
+        "i72:value": "",
+    },
+    {
+        "@type": "IndicatorReport",
+        "forOrganization": "",
+        "forIndicator": "",
+        "i72:value": "",
+        "prov:wasGeneratedBy": "",
+        "dcat:dataset": "",
+        "i72:for_time_interval": "",
+        "dqv:hasQualityAnnotation": "",
+        "dqv:conformsTo": "",
+        "dqv:hasQualityMeasurement": "",
+        "hasAccess": "",
+        "hasComment": "",
+        "sch:name": "",
+        "sch:dateCreated": ""
+    }
+}
