@@ -5,48 +5,56 @@
         "sch": "http://schema.org/",
         "org": "http://ontology.eil.utoronto.ca/organization#",
         "ic": "http://ontology.eil.utoronto.ca/icontact#",
-        "uwgt": "https://www.unitedwaygt.org/LD#"
+        "uwgt": "https://www.unitedwaygt.org/LD#",
+        "cids": "http://ontology.eil.utoronto.ca/#CIDS",
+        "dcat": "http://www.w3.org/ns/dcat#",
+        "dqv": "http://www.w3.org/ns/dqv#",
+        "i72": "http://ontology.eil.utoronto.ca/ISO21972/iso21972#",
+        "prov": "http://www.w3.org/ns/prov#",
+        "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
     },
-    
-        "@type": "Indicator",
-        "rdfs:subClassOf": "",
-        "definedBy": "",
-        "forOutcome": "",
-        "usesOutput": "",
-        "hasBaseline": "",
-        "hasThreshold": "",
-        "prov:wasGeneratedBy": "",
-        "dcat:dataset": "",
-        "hasIndicatorReport": "",
-        "hasAccess": "",
-        "hasIndicatorStandard": "",
-        "dqv:target": "",
-        "sch:name": "",
-        "sch:description": "",
-        "sch:dateCreated": ""
-    
-    {
-        "@type": "IndicatorStandard",
-        "forOrganization": "",
-        "sch:identifier": "",
-        "sch:name": "",
-        "sch:description": "",
-        "i72:value": "",
-    },
-    {
-        "@type": "IndicatorReport",
-        "forOrganization": "",
-        "forIndicator": "",
-        "i72:value": "",
-        "prov:wasGeneratedBy": "",
-        "dcat:dataset": "",
-        "i72:for_time_interval": "",
-        "dqv:hasQualityAnnotation": "",
-        "dqv:conformsTo": "",
-        "dqv:hasQualityMeasurement": "",
-        "hasAccess": "",
-        "hasComment": "",
-        "sch:name": "",
-        "sch:dateCreated": ""
-    }
+    "@graph": [
+        {
+            "@type": "Indicator",
+            "rdfs:subClassOf": "",
+            "cids:definedBy": "National Statistical Agency",
+            "cids:forOutcome": "Positive",
+            "cids:usesOutput": "",
+            "cids:hasBaseline": "",
+            "cids:hasThreshold": "",
+            "prov:wasGeneratedBy": "",
+            "dcat:dataset": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTd6FyW8aJp5BU3Pv5w2sD1yoeZywSnOjBPSDtrwyHwyN-v-MGQGOdajysHdIFlHhvGifBSFO8lVbnQ/pub?gid=1510682905&single=true&output=csv",
+            "cids:hasIndicatorReport": "true",
+            "cids:hasAccess": "",
+            "cids:hasIndicatorStandard": "true",
+            "dqv:target": "",
+            "sch:name": "Sense of Belonging",
+            "sch:description": "Sense of belonging is a single-item measure of social well-being, used as a key indicator in the Public Health Agency of Canada’s Positive Mental Health Surveillance Indicator Framework, and is a core question in the Canadian Community Health Survey. See Orpana, H., J. Vachon, J. Dykxhoorn, L. McRae, and G. Jayaraman. “Monitoring Positive Mental Health and Its Determinants in Canada: The Development of the Positive Mental Health Surveillance Indicator Framework.” Health Promotion and Chronic Disease Prevention in Canada: Research, Policy and Practice 36, no. 1 (2016): 1. Also see Positive Mental Health Surveillance Indicator Framework (canada.ca). Also see Statistics Canada. Table 13-10-0096-15 Sense of belonging to local community, somewhat strong or very strong, by age group. DOI: https://doi.org/10.25318/1310009601-eng Also see Michalski, C., Diemert, L., Helliwell, J., Goel, V., & Rosella, L. (2020)",
+            "sch:dateCreated": ""
+        },
+        {
+            "@type": "IndicatorStandard",
+            "cids:forOrganization": "",
+            "sch:identifier": "cids",
+            "sch:name": "Common Impact Data Standard",
+            "sch:description": "The Common Impact Data Standard, released in collaboration with Mark Fox at the Centre for Social Services Engineering at the University of Toronto, is a standard for representing impact data that allows for data to be shared, aggregated and compared. Think of it as an organization system for capturing your impact data.To create this standard, the Common Approach consulted with experts and aligned with other leading standards, such as the Impact Management Project, which itself consulted with over 2000 impact professionals. Following the norms identified by the Impact Management Project, the Common Impact Data Standard has defined the necessary objects and relationships to represent the who, what, how much, contribution and risk of impact. These are the five dimensions of impact as identified by the Impact Management Project. In addition to these five dimensions, the Common Impact Data Standard includes information on inputs, activities, outputs, and outcomes (as would be in a program logic model or theory of change) to describe how the impact occurs.",
+            "i72:value": ""
+        },
+        {
+            "@type": "IndicatorReport",
+            "cids:forOrganization": "Logical Outcomes",
+            "cids:forIndicator": "Sense of Belonging",
+            "i72:value": "",
+            "prov:wasGeneratedBy": "",
+            "dcat:dataset": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTd6FyW8aJp5BU3Pv5w2sD1yoeZywSnOjBPSDtrwyHwyN-v-MGQGOdajysHdIFlHhvGifBSFO8lVbnQ/pub?gid=1510682905&single=true&output=csv",
+            "i72:for_time_interval": "",
+            "dqv:hasQualityAnnotation": "",
+            "dqv:conformsTo": "Common Impact Data Standard",
+            "dqv:hasQualityMeasurement": "false",
+            "cids:hasAccess": "",
+            "cids:hasComment": "Is forIndicator 'Logical Outcomes?' hasQualityMeasurment needs to be changed.",
+            "sch:name": "",
+            "sch:dateCreated": ""
+        }
+    ]
 }
