@@ -18,7 +18,7 @@
             "@type": "Indicator",
             "rdfs:subClassOf": "",
             "cids:definedBy": "National Statistical Agency",
-            "cids:forOutcome": "Positive",
+            "cids:forOutcome": "positive",
             "cids:usesOutput": "",
             "cids:hasBaseline": "",
             "cids:hasThreshold": "",
@@ -50,9 +50,9 @@
             "i72:for_time_interval": "",
             "dqv:hasQualityAnnotation": "",
             "dqv:conformsTo": "Common Impact Data Standard",
-            "dqv:hasQualityMeasurement": "false",
+            "dqv:hasQualityMeasurement": "",
             "cids:hasAccess": "",
-            "cids:hasComment": "Is forIndicator 'Logical Outcomes?' hasQualityMeasurment needs to be changed.",
+            "cids:hasComment": "",
             "sch:name": "",
             "sch:dateCreated": ""
         }
