@@ -29,10 +29,24 @@
                 "@type": "Indicator",
                 "rdfs:subClassOf": "",
                 "cids:definedBy": "National Statistical Agency",
-                "cids:forOutcome": "positive",
+                "cids:forOutcome": [
+                    ["A1","55"],
+                    ["A2","183"],
+                    ["A3","400"],
+                    ["A4","329"],
+                    ["RF","59"],
+                    ["Blank","14"]
+                ],
                 "cids:usesOutput": "",
-                "cids:hasBaseline": ["900","1000"],
-                "cids:hasThreshold": ["800","2200"],
+                "cids:hasBaseline": [
+                    ["A1","92"],
+                    ["A2","221"],
+                    ["A3","213"],
+                    ["A4","131"],
+                    ["RF","54"],
+                    ["Blank","329"]
+                ],
+                "cids:hasThreshold": ["A1","Blank"],
                 "prov:wasGeneratedBy": "",
                 "dcat:dataset": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTd6FyW8aJp5BU3Pv5w2sD1yoeZywSnOjBPSDtrwyHwyN-v-MGQGOdajysHdIFlHhvGifBSFO8lVbnQ/pub?gid=1510682905&single=true&output=csv",
                 "cids:hasIndicatorReport": "true",
@@ -45,7 +59,7 @@
                 "sch:description": "Sense of belonging is a single-item measure of social well-being, used as a key indicator in the Public Health Agency of Canada’s Positive Mental Health Surveillance Indicator Framework, and is a core question in the Canadian Community Health Survey. See Orpana, H., J. Vachon, J. Dykxhoorn, L. McRae, and G. Jayaraman. “Monitoring Positive Mental Health and Its Determinants in Canada: The Development of the Positive Mental Health Surveillance Indicator Framework.” Health Promotion and Chronic Disease Prevention in Canada: Research, Policy and Practice 36, no. 1 (2016): 1. Also see Positive Mental Health Surveillance Indicator Framework (canada.ca). Also see Statistics Canada. Table 13-10-0096-15 Sense of belonging to local community, somewhat strong or very strong, by age group. DOI: https://doi.org/10.25318/1310009601-eng Also see Michalski, C., Diemert, L., Helliwell, J., Goel, V., & Rosella, L. (2020)",
                 "sch:dateCreated": "2022-04-01"
             },
-            "i72:value": ["946","1022"],
+            "i72:value": ["14","400"],
             "prov:wasGeneratedBy": "",
             "dcat:dataset": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTd6FyW8aJp5BU3Pv5w2sD1yoeZywSnOjBPSDtrwyHwyN-v-MGQGOdajysHdIFlHhvGifBSFO8lVbnQ/pub?gid=1510682905&single=true&output=csv",
             "i72:for_time_interval": ["2020-01-01","2022-01-01"],
