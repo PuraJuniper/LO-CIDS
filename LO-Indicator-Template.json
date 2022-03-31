@@ -43,14 +43,14 @@
                 "sch:description": "",
                 "sch:dateCreated": ""
             },
-            "i72:value": "",
+            "i72:value": [],
             "prov:wasGeneratedBy": "",
             "dcat:dataset": "",
-            "i72:for_time_interval": "",
+            "i72:for_time_interval": [],
             "dqv:hasQualityAnnotation": "",
             "dqv:conformsTo": "",
             "dqv:hasQualityMeasurement": "",
-            "cids:hasAccess": "",
+            "cids:hasAccess": [],
             "cids:hasComment": "",
             "sch:name": "",
             "sch:dateCreated": ""
