@@ -5,7 +5,7 @@
         "sch": "http://schema.org/",
         "org": "http://ontology.eil.utoronto.ca/organization#",
         "ic": "http://ontology.eil.utoronto.ca/icontact#",
-        "uwgt": "https://www.unitedwaygt.org/LD#",
+        "lo": "https://www.logicaloutcomes.net/",
         "cids": "http://ontology.eil.utoronto.ca/#CIDS",
         "dcat": "http://www.w3.org/ns/dcat#",
         "dqv": "http://www.w3.org/ns/dqv#",
