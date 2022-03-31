@@ -5,7 +5,7 @@
         "sch": "http://schema.org/",
         "org": "http://ontology.eil.utoronto.ca/organization#",
         "ic": "http://ontology.eil.utoronto.ca/icontact#",
-        "uwgt": "https://www.unitedwaygt.org/LD#",
+        "uwgt": "https://logicaloutcomes.net/LD#",
         "cids": "http://ontology.eil.utoronto.ca/#CIDS",
         "dcat": "http://www.w3.org/ns/dcat#",
         "dqv": "http://www.w3.org/ns/dqv#",
@@ -34,7 +34,7 @@
         },
         {
             "@type": "IndicatorStandard",
-            "cids:forOrganization": "",
+            "cids:forOrganization": "LogicalOutcomes",
             "sch:identifier": "cids",
             "sch:name": "Common Impact Data Standard",
             "sch:description": "The Common Impact Data Standard, released in collaboration with Mark Fox at the Centre for Social Services Engineering at the University of Toronto, is a standard for representing impact data that allows for data to be shared, aggregated and compared. Think of it as an organization system for capturing your impact data.To create this standard, the Common Approach consulted with experts and aligned with other leading standards, such as the Impact Management Project, which itself consulted with over 2000 impact professionals. Following the norms identified by the Impact Management Project, the Common Impact Data Standard has defined the necessary objects and relationships to represent the who, what, how much, contribution and risk of impact. These are the five dimensions of impact as identified by the Impact Management Project. In addition to these five dimensions, the Common Impact Data Standard includes information on inputs, activities, outputs, and outcomes (as would be in a program logic model or theory of change) to describe how the impact occurs.",
