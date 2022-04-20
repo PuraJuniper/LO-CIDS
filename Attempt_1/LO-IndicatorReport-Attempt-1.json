@@ -1,7 +1,5 @@
 {
     "@context": {
-        "caco": "http://ontology.eil.utoronto.ca/CAO/caco#",
-        "cafo": "http://ontology.eil.utoronto.ca/CAO/cafo#",
         "sch": "http://schema.org/",
         "org": "http://ontology.eil.utoronto.ca/organization#",
         "ic": "http://ontology.eil.utoronto.ca/icontact#",
