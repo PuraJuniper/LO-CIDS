@@ -15,7 +15,7 @@
         "@context": "http://ontology.eil.utoronto.ca/cids/contexts/OutcomeContext.json",
         "@type": "cids:Outcome",
         "@id": "https://www.logicaloutcomes.net/outcome1",
-        "hasName": "SenseOfBelongPre",
+        "hasName": "Sense of Belonging",
         "hasDescription": "Think back to when you first joined us. How would you describe your sense of belonging to your local community at that time? Would you say it was… ",
         "forDomain": "http://ontology.eil.utoronto.ca/CIDS/cids#sdg1",
         "dateCreated": "2021-03-21"
@@ -24,14 +24,16 @@
         "@context": "http://ontology.eil.utoronto.ca/cids/contexts/IndicatorContext.json",
         "@type": "cids:Indicator",
         "@id": "https://www.logicaloutcomes.net/indicator1",
-        "hasName": "Sense of Belonging",
-        "hasDescription": "very weak",
-        "hasOutcome": "https://www.logicaloutcomes.net/outcome1"
+        "hasName": "SenseBelongPre",
+        "hasDescription": "% participants reporting an increased sense of belonging with the local community. Cross-sectional comparison of groups before and after intervention.",
+        "hasOutcome": "https://www.logicaloutcomes.net/outcome1",
+        "dataset": ""
     },
     {
         "@context": "http://ontology.eil.utoronto.ca/cids/contexts/IndicatorReportContext.json",
         "@type": "cids:IndicatorReport",
         "@id": "https://www.logicaloutcomes.net/indicatorReport1",
+        "hasName": "% participants reporting an increased sense of belonging with the local community",
         "hasTimeInterval": {
             "@context": "http://ontology.eil.utoronto.ca/CIDS/contexts/TimeContext.json",
             "@type": "time:DateTimeInterval",
@@ -50,10 +52,11 @@
         },
         "forOrganization": "https://www.logicaloutcomes.net/",
         "forIndicator": "https://www.logicaloutcomes.net/indicator1",
+        "dataset": "",
         "value": {
             "@context": "http://ontology.eil.utoronto.ca/CIDS/contexts/ISO21972Context.json",
             "@type": "i72:Measure",
-            "numerical_value": "92:1040"
+            "numerical_value": "623:976"
         },
         "dateCreated": "2022-04-20"
     }
