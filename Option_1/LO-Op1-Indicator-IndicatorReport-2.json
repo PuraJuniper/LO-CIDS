@@ -26,8 +26,7 @@
         "@id": "https://www.logicaloutcomes.net/indicator2",
         "hasName": "Sense of Belonging - Cross-sectional comparison",
         "hasDescription": "% participants reporting an increased sense of belonging with the local community. Cross-sectional comparison of groups before and after intervention.",
-        "hasOutcome": "https://www.logicaloutcomes.net/outcome1",
-        "dataset": ""
+        "hasOutcome": "https://www.logicaloutcomes.net/outcome1"
     },
     {
         "@context": "http://ontology.eil.utoronto.ca/cids/contexts/IndicatorReportContext.json",
@@ -52,7 +51,6 @@
         },
         "forOrganization": "https://www.logicaloutcomes.net/",
         "forIndicator": "https://www.logicaloutcomes.net/indicator1",
-        "dataset": "",
         "value": {
             "@context": "http://ontology.eil.utoronto.ca/CIDS/contexts/ISO21972Context.json",
             "@type": "i72:Measure",
