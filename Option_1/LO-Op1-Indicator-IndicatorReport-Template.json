@@ -1,0 +1,63 @@
+[
+    {
+        "@context": "http://ontology.eil.utoronto.ca/cids/contexts/CIDSOrganizationContext.json",
+        "@type": "cids:Organization",
+        "@id": "https://www.logicaloutcomes.net/",
+        "hasID": {
+            "@context": "http://ontology.eil.utoronto.ca/CIDS/contexts/OrganizationIDContext.json",
+            "@type": "org:OrganizationID",
+            "issuedBy": "http://https://www.canada.ca/en/revenue-agency.html",
+            "identifier": "12345678"
+        },
+        "hasLegalName": "Logical Outcomes"
+    },
+    {
+        "@context": "http://ontology.eil.utoronto.ca/cids/contexts/OutcomeContext.json",
+        "@type": "cids:Outcome",
+        "@id": "https://www.logicaloutcomes.net/outcome1",
+        "hasName": "",
+        "hasDescription": "",
+        "forDomain": "http://ontology.eil.utoronto.ca/CIDS/cids#sdg1",
+        "dateCreated": "yyyy-mm-dd"
+    },
+    {
+        "@context": "http://ontology.eil.utoronto.ca/cids/contexts/IndicatorContext.json",
+        "@type": "cids:Indicator",
+        "@id": "https://www.logicaloutcomes.net/indicator1",
+        "hasName": "",
+        "hasDescription": "",
+        "hasOutcome": "https://www.logicaloutcomes.net/outcome1",
+        "dataset": ""
+    },
+    {
+        "@context": "http://ontology.eil.utoronto.ca/cids/contexts/IndicatorReportContext.json",
+        "@type": "cids:IndicatorReport",
+        "@id": "https://www.logicaloutcomes.net/indicatorReport1",
+        "hasName": "",
+        "hasTimeInterval": {
+            "@context": "http://ontology.eil.utoronto.ca/CIDS/contexts/TimeContext.json",
+            "@type": "time:DateTimeInterval",
+            "hasBeginnning": {
+                "@type": "time:DateTimeDescription",
+                "year": "yyyy",
+                "month": "mm",
+                "day": "dd"
+            },
+            "hasEnd": {
+                "@type": "time:DateTimeDescription",
+                "year": "yyyy",
+                "month": "mm",
+                "day": "dd"
+            }
+        },
+        "forOrganization": "https://www.logicaloutcomes.net/",
+        "forIndicator": "https://www.logicaloutcomes.net/indicator1",
+        "dataset": "",
+        "value": {
+            "@context": "http://ontology.eil.utoronto.ca/CIDS/contexts/ISO21972Context.json",
+            "@type": "i72:Measure",
+            "numerical_value": ":"
+        },
+        "dateCreated": "yyyy-mm-dd"
+    }
+]

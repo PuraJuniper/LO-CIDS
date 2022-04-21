@@ -24,8 +24,8 @@
         "@context": "http://ontology.eil.utoronto.ca/cids/contexts/IndicatorContext.json",
         "@type": "cids:Indicator",
         "@id": "https://www.logicaloutcomes.net/indicator1",
-        "hasName": "SenseBelongPre",
-        "hasDescription": "% participants reporting an increased sense of belonging with the local community. Cross-sectional comparison of groups before and after intervention.",
+        "hasName": "Sense of Belonging - Longitudinal comparison",
+        "hasDescription": "% participants reporting an increased sense of belonging with the local community. Longitudinal comparison of pre- and post- rating for individual respondents.",
         "hasOutcome": "https://www.logicaloutcomes.net/outcome1",
         "dataset": ""
     },
@@ -56,8 +56,8 @@
         "value": {
             "@context": "http://ontology.eil.utoronto.ca/CIDS/contexts/ISO21972Context.json",
             "@type": "i72:Measure",
-            "numerical_value": "623:976"
+            "numerical_value": "348:708"
         },
-        "dateCreated": "2022-04-20"
+        "dateCreated": "2022-04-21"
     }
 ]
