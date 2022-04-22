@@ -1,0 +1,1041 @@
+﻿CxContactTimes,CxGoalMostImpCP4,CxGoalMostImpCP4[other],CxGoalAchieve,CxSenseBelongPre,CxSenseBelong,QSPS1[SQ1],QSPS1[SQ2],QSPS1[SQ3],QSPS1[SQ4],QSPS1[SQ5],SPSScore,CxSPS1,CxSenseBelongInd,CxSenseBelongDif,CxGoalAchievSum,QAgeN,CxGenderFMD,CxGenderFMD[other],CxTransgender,CxIdentity[CxBlack],CxIdentity[CxPOC],CxIdentity[CxFNIM],CxIdentity[CxLGBTQ],CxIdentity[CxPersonDisab],CxIdentity[CxFrancophone],CxIdentity[CxNA],CxIdentity[CxDK],CxIdentity[CxRF],QFSA,CxAgeOTF
+A2,A5,,A3,A1,A2,A3,A3,RF,A3,A3,12,Mid,A1,A1   ,A3,57,F,,N,,,,,,,,,Y,M2m,A5
+A3,-oth-,Talk to people n get connected,A5,A2,A3,A3,A3,RF,A4,A3,13,Mid,A2,A1   ,A1,,F,,,,,,,,,,,,L6Y,
+A3,A5,,A4,A3,A2,A3,A3,A3,A3,A3,15,High,A1,A2   ,A1,72,F,,N,,,,,,,,Y,,M1B,A6
+A3,A2,,A5,A4,A3,A3,A3,A3,A3,A3,15,High,A2,A2   ,A1,68,F,,N,,,,,,,,Y,,L3S,A6
+A1,A1,,,,A3,A3,A4,A3,A4,A4,18,High,A2,A2   ,RF,25,F,,N,,,,,,,Y,,,L6Y,A4
+A1,A2,,,,A4,A4,A4,A4,A4,A4,20,High,A2,A2   ,RF,72,F,,,,,,,,,,,Y,,A6
+A1,A3,,,,A3,,,,,,0,RF,A2,A2   ,RF,50,F,,N,,,,,,,Y,,,,A5
+A1,A4,,,,A4,,,,,,0,RF,A2,A2   ,RF,,F,,,,,,,,,,,,L4E,
+A2,A5,,A4,A3,A3,A3,RF,A3,A3,RF,9,Low,A2,A2   ,A1,55,F,,N,,,,,Y,,,,,564,A5
+A3,-oth-,Very informative program,A5,A4,A4,A3,A3,A3,A3,A4,16,High,A2,A2   ,A1,78,F,,,,,,,,,,,,M1W,A6
+A2,A5,,A4,A4,A4,A3,A3,A3,A3,A3,15,High,A2,A2   ,A1,65,F,,N,,Y,,,,,,,,,A6
+A3,A5,,A5,A3,A4,A4,A4,A3,A4,A3,18,High,A2,A1   ,A1,66,F,,N,,,,,,,Y,,,L3S,A6
+A3,A5,,A5,A4,A4,A4,A4,A4,A4,A4,20,High,A2,A2   ,A1,69,F,,N,,Y,,,,,,,,L4J,A6
+A1,A3,,,,A1,,,,,,0,RF,A1,A2   ,RF,73,F,,N,,,,,,,Y,,,L7S,A6
+A3,A5,,A5,A3,A4,A4,A3,A3,A3,A4,17,High,A2,A1   ,A1,,F,,,,,,,,,,,,,
+A3,A5,,A5,A4,A4,A3,A3,A4,A3,A3,16,High,A2,A2   ,A1,,,,,,,,,,,,,,,
+A2,A5,,A4,A3,A4,A1,A3,A3,A3,A3,13,Mid,A2,A1   ,A1,65,F,,N,,,,,,,Y,,,,A6
+A3,A5,,A5,A4,A4,A4,A4,A4,A4,A3,19,High,A2,A2   ,A1,,F,,,,,,,,,,,,,
+A3,A3,,A5,A2,A3,A3,A4,A3,A4,A4,18,High,A2,A1   ,A1,,,,,,,,,,,,,,,
+A2,A5,,A4,A2,A4,A3,A3,A4,A4,A4,18,High,A2,A1   ,A1,,,,,,,,,,,,,,,
+A1,A6,,,,A4,A4,A3,A3,A3,A4,17,High,A2,A2   ,RF,,,,,,,,,,,,,,,
+A3,A3,,A5,A3,A4,A4,A4,A4,A4,A4,20,High,A2,A1   ,A1,,,,,,,,,,,,,,,
+A2,A1,,A4,A2,A4,A4,A4,A4,A4,A4,20,High,A2,A1   ,A1,,,,,,,,,,,,,,,
+A3,A5,,A5,A3,A4,A4,A4,A4,A3,A4,19,High,A2,A1   ,A1,,,,,,,,,,,,,,,
+A1,A3,,,,A3,A3,A3,A3,A3,A3,15,High,A2,A2   ,RF,,,,,,,,,,,,,,,
+A1,A5,,,,A3,A4,A4,A3,A3,A4,18,High,A2,A2   ,RF,,,,,,,,,,,,,,,
+A2,A3,,A4,A2,A3,A4,A4,A4,A4,A4,20,High,A2,A1   ,A1,,,,,,,,,,,,,,,
+A3,A3,,A5,A2,A4,A4,A4,A4,A3,A4,19,High,A2,A1   ,A1,,,,,,,,,,,,,,,
+A3,A3,,A4,A3,A4,A4,A4,A4,A3,A4,19,High,A2,A1   ,A1,,,,,,,,,,,,,,,
+A1,A2,,,,A3,A4,A4,A3,A3,A4,18,High,A2,A2   ,RF,,,,,,,,,,,,,,,
+A2,A1,,A3,A2,A3,A3,A4,A3,A3,A4,17,High,A2,A1   ,A3,,,,,,,,,,,,,,,
+A1,A5,,,,A3,A3,A4,A3,A3,A3,16,High,A2,A2   ,RF,15,-oth-,Fluid-Masc(sometimes femme),Y,,,,,,Y,,,,n4g,A2
+A3,A5,,A4,A3,A4,A4,A4,A4,A4,A4,20,High,A2,A1   ,A1,,,,,,,,,,,,,,,
+A3,A6,,A5,A2,A3,A3,A3,A3,A3,A3,15,High,A2,A1   ,A1,,,,,,,,,,,,,,,
+A3,A5,,A4,A3,A4,A4,A3,A3,A3,A4,17,High,A2,A1   ,A1,,,,,,,,,,,,,,,
+A1,A2,,,,A1,A2,A3,A1,A4,A3,13,Mid,A1,A2   ,RF,,,,,,,,,,,,,,,
+A3,A5,,A5,A2,A4,A3,A4,A4,A3,A4,18,High,A2,A1   ,A1,,,,,,,,,,,,,,,
+A2,A3,,A4,A3,A4,A4,A4,A4,A4,A4,20,High,A2,A1   ,A1,,,,,,,,,,,,,,,
+A1,A3,,,,A2,A2,A3,A3,A2,A3,13,Mid,A1,A2   ,RF,,,,,,,,,,,,,,,
+A3,A5,,A4,A3,A4,A3,A3,A4,A4,A4,18,High,A2,A1   ,A1,,,,,,,,,,,,,,,
+A1,A3,,,,A3,A3,A3,A3,A3,A4,16,High,A2,A2   ,RF,,,,,,,,,,,,,,,
+A1,A3,,,,A2,A3,A3,A2,A2,A3,13,Mid,A1,A2   ,RF,,,,,,,,,,,,,,,
+A2,A5,,A5,A3,A3,A4,A3,A3,A3,A3,16,High,A2,A2   ,A1,,M,,,,,,,,,,,,,
+A3,A1,,A4,A3,A4,A3,A3,A3,A3,A3,15,High,A2,A1   ,A1,,F,,,,,,,,,,,,,
+A3,A5,,A5,A4,A4,A4,A3,A4,A4,A4,19,High,A2,A2   ,A1,,,,,,,,,,,,,,,
+A3,A1,,A4,A4,A4,,,,,,0,RF,A2,A2   ,A1,,,,,,,,,,,,,,,
+A3,A5,,A5,A4,A4,A4,A4,A4,A4,A4,20,High,A2,A2   ,A1,58,F,,N,,Y,,,,,,,,,A5
+A3,A3,,A5,A3,A3,,A2,A3,A3,,8,Low,A2,A2   ,A1,61,F,,N,,,,,,,,,,,A5
+A3,A5,,A5,A3,A3,A3,RF,RF,RF,RF,3,RF,A2,A2   ,A1,,M,,,,,,,,,,,,,
+A3,A1,,A4,A4,A4,RF,A3,A2,A3,A2,10,Mid,A2,A2   ,A1,,,,,,,,,,,,,,,
+A3,A1,,A3,A3,A3,A3,A3,A3,A3,A3,15,High,A2,A2   ,A3,,,,,,,,,,,,,,,
+A3,A5,,A5,A4,A4,A3,A3,A3,A3,A3,15,High,A2,A2   ,A1,,,,,,,,,,,,,,,
+A3,A1,,A5,A4,A4,A4,A4,A4,A4,A4,20,High,A2,A2   ,A1,,F,,,,,,,,,,,,,
+A3,A5,,A5,A3,A3,A3,A3,A3,A4,A4,17,High,A2,A2   ,A1,,F,,,,,,,,,,,,,
+A3,A6,,A5,A4,A4,A4,RF,A3,A3,A4,14,Mid,A2,A2   ,A1,,,,,,,,,,,,,,,
+A3,A1,,A5,A4,A4,A4,A3,A4,A3,A3,17,High,A2,A2   ,A1,,,,,,,,,,,,,,,
+A2,A5,,A4,A2,A3,A3,A3,A4,A3,A3,16,High,A2,A1   ,A1,,,,,,,,,,,,,,,
+A3,A1,,A5,A3,A3,A3,A3,A3,A4,A4,17,High,A2,A2   ,A1,,,,,,,,,,,,,,,
+A3,A5,,A3,RF,RF,A3,A3,A3,A4,A3,16,High,RF,RF   ,A3,67,F,,N,,Y,,,,,,,,,A6
+A3,A4,,A5,A3,A3,A3,A3,A3,A3,A3,15,High,A2,A2   ,A1,71,M,,N,,Y,,,,,,,,,A6
+A3,-oth-,,RF,RF,A3,A4,A3,A3,A3,A3,16,High,A2,RF   ,RF,,F,,,,,,,,,,,,,
+A3,A5,,A4,A2,A3,A3,A3,A3,A3,A3,15,High,A2,A1   ,A1,,,,,,,,,,,,,,,
+A3,A5,,A5,A4,A4,A4,A4,A4,A4,A4,20,High,A2,A2   ,A1,,F,,,,,,,,,,,,,
+A3,A5,,A5,A4,A4,A4,A3,A4,A4,A3,18,High,A2,A2   ,A1,,,,,,,,,,,,,,,
+A3,-oth-,,A5,A4,A4,A4,A4,A3,A4,A3,18,High,A2,A2   ,A1,66,F,,N,,Y,,,,,,,,,A6
+A3,A1,,A2,A1,A2,A4,A1,A3,A2,A4,14,Mid,A1,A1   ,A2,,,,,,,,,,,,,,,
+A2,A5,,A4,A3,A3,A3,A3,A3,A3,A3,15,High,A2,A2   ,A1,,,,,,,,,,,,,,,
+A3,A5,,A2,A2,A2,A3,A3,RF,A3,A3,12,Mid,A1,A2   ,A2,,,,,,,,,,,,,,,
+A3,A5,,A5,A3,A3,A3,A4,A3,A3,A3,16,High,A2,A2   ,A1,66,M,,N,,Y,,,,,,,,,A6
+A3,A4,,A5,A4,A4,A3,A3,A3,A3,A3,15,High,A2,A2   ,A1,59,F,,,,Y,,,,,,,,,A5
+A3,A5,,A5,A4,A4,A4,A4,A4,A4,A4,20,High,A2,A2   ,A1,,,,,,,,,,,,,,,
+A2,A3,,A4,RF,RF,A3,A3,A3,A3,A3,15,High,RF,RF   ,A1,72,M,,N,,Y,,,,,,,,,A6
+A1,A2,,,,A4,A4,A4,A3,A3,A3,17,High,A2,A2   ,RF,,,,,,,,,,,,,,,
+A3,A5,,A4,A3,A3,A3,A4,A3,A3,A4,17,High,A2,A2   ,A1,,M,,,,,,,,,,,,,
+A3,A5,,A4,A3,A4,A4,A4,A4,A3,A4,19,High,A2,A1   ,A1,64,F,,N,,Y,,,,,,,,,A5
+A3,A4,,A5,A4,A4,A4,A4,A4,A4,A4,20,High,A2,A2   ,A1,,,,,,,,,,,,,,,
+A3,A5,,A5,A4,A4,A3,A3,A3,A3,A3,15,High,A2,A2   ,A1,,M,,,,,,,,,,,,,
+A3,A5,,A5,A4,A4,A3,A3,A3,A3,A4,16,High,A2,A2   ,A1,60,F,,N,,Y,,,,,,,,,A5
+A3,A5,,,A2,A3,A3,A3,A3,A3,A3,15,High,A2,A1   ,RF,,M,,,,,,,,,,,,,
+A3,-oth-,,A5,A3,A3,A3,A3,A3,A3,A3,15,High,A2,A2   ,A1,,F,,,,,,,,,,,,,
+A3,A5,,A5,A4,A4,A4,A3,A3,A4,A4,18,High,A2,A2   ,A1,,M,,,,,,,,,,,,,
+A3,A2,,A5,A4,A4,A3,A3,A3,A3,A3,15,High,A2,A2   ,A1,,M,,,,,,,,,,,,,
+A2,A5,,A3,A3,A3,RF,A1,A1,A3,A4,9,Low,A2,A2   ,A3,,F,,,,,,,,,,,,,
+A3,A1,,A5,A2,A3,A4,A4,A3,A3,A4,18,High,A2,A1   ,A1,,M,,,,,,,,,,,,,
+A3,A3,,A5,A4,A4,A3,A3,A1,A3,A3,13,Mid,A2,A2   ,A1,,F,,,,,,,,,,,,,
+A3,A1,,A5,A4,A4,A4,A3,A3,A3,A4,17,High,A2,A2   ,A1,,,,,,,,,,,,,,,
+A3,A5,,A4,A3,A3,A4,A4,A4,RF,A4,16,High,A2,A2   ,A1,,,,,,,,,,,,,,,
+A3,A5,,A3,A4,A4,A4,A4,A4,A4,A4,20,High,A2,A2   ,A3,,,,,,,,,,,,,,,
+A2,A5,,A5,A3,A4,A4,A3,A4,A4,A4,19,High,A2,A1   ,A1,,,,,,,,,,,,,,,
+A3,A3,,A5,A4,A4,A4,A4,A4,A4,A3,19,High,A2,A2   ,A1,,,,,,,,,,,,,,,
+A3,A5,,A5,A2,A3,A3,A3,A3,A3,A3,15,High,A2,A1   ,A1,,,,,,,,,,,,,,,
+A3,A5,,A5,A4,A4,A3,A4,A3,A4,A4,18,High,A2,A2   ,A1,,,,,,,,,,,,,,,
+A3,A5,,A5,A4,A4,A4,A4,A4,A3,A4,19,High,A2,A2   ,A1,,,,,,,,,,,,,,,
+A3,A5,,A4,A3,A3,A3,A3,A3,A3,A3,15,High,A2,A2   ,A1,,F,,,,,,,,,,,,,
+A3,A3,,A5,A3,A3,A3,A3,A3,A3,A4,16,High,A2,A2   ,A1,,F,,,,,,,,,,,,,
+A3,A5,,A5,A4,A4,A4,A3,A3,A3,A3,16,High,A2,A2   ,A1,73,F,,N,,Y,,,,,,,,,A6
+A3,A1,,A4,A3,A4,A3,A4,A4,A4,A3,18,High,A2,A1   ,A1,60,M,,N,,Y,,,,,,,,,A5
+A1,A2,,,,A4,A3,A3,A3,A3,A2,14,Mid,A2,A2   ,RF,,M,,,,,,,,,,,,,
+A2,A6,,A3,A3,A3,A2,A3,A2,A3,A3,13,Mid,A2,A2   ,A3,,M,,,,,,,,,,,,,
+A1,A4,,,,A3,A3,A3,A3,A3,A3,15,High,A2,A2   ,RF,25,NB,,N,,,,,,Y,,,,L6L,A4
+A3,A4,,A4,A4,A4,A3,A3,A3,A3,A3,15,High,A2,A2   ,A1,25,F,,Y,,Y,,,,,,,,L6L,A4
+A3,A5,,A4,A3,A4,A4,A3,A3,A3,A3,16,High,A2,A1   ,A1,93,F,,,,,,,,,,,,m1v,A6
+A3,A5,,A4,A2,A3,A3,A4,A3,A3,A3,16,High,A2,A1   ,A1,,M,,,,,,,,,,,,,
+A3,A6,,A4,A3,A3,A3,A2,A3,A3,A3,14,Mid,A2,A2   ,A1,,F,,,,,,,,,,,,,
+A2,-oth-,,A3,RF,RF,RF,RF,RF,RF,RF,0,RF,RF,RF   ,A3,,,,,,,,,,,,,,,
+A3,-oth-,,A5,A4,A4,A3,A3,A3,A3,A3,15,High,A2,A2   ,A1,,,,,,,,,,,,,,,
+A3,A1,,A5,A4,A4,A4,A4,A4,A4,A4,20,High,A2,A2   ,A1,,F,,,,,,,,,,,,,
+A3,A5,,A4,A3,A4,A3,A3,A2,A3,A3,14,Mid,A2,A1   ,A1,63,F,,,,,,,,,,,,,A5
+A2,A3,,A2,A2,A2,A3,A3,A3,A3,A3,15,High,A1,A2   ,A2,,,,,,,,,,,,,,,
+A3,A4,,A4,RF,RF,A3,A3,A3,RF,A3,12,Mid,RF,RF   ,A1,,,,,,,,,,,,,,,
+A1,A1,,,,A2,A3,A3,A3,A3,A3,15,High,A1,A2   ,RF,,,,,,,,,,,,,,,
+A1,A5,,,,A2,A3,A3,A3,A3,A3,15,High,A1,A2   ,RF,30,M,,,,,,,,,,Y,,L6Y,A4
+A3,A6,,A5,A3,A4,A3,A3,RF,A4,A3,13,Mid,A2,A1   ,A1,0,F,,N,,,,,,,,,,L6Y,
+A3,A5,,A5,A3,A3,A3,A3,RF,A3,A3,12,Mid,A2,A2   ,A1,0,F,,N,,,,,,,,,,L6y,
+A3,,,,,,,,,,,0,RF,RF,A2   ,RF,,,,,,,,,,,,,,,
+A2,A5,,A5,A3,A4,A4,A4,A4,A4,A4,20,High,A2,A1   ,A1,36,M,,N,,Y,,,,,,,,M2J,A4
+A2,A5,,A5,A4,A4,A4,A4,A4,A4,A4,20,High,A2,A2   ,A1,36,M,,N,,Y,,,,,,,,M2J,A4
+A2,A5,,A4,A2,A3,A3,A3,A3,A3,A3,15,High,A2,A1   ,A1,65,F,,N,,Y,,,,,,,,L3S,A6
+A2,A5,,A3,A2,A2,A3,A3,A3,A3,A3,15,High,A1,A2   ,A3,65,F,,N,,,,,,,Y,,,L3S,A6
+A3,-oth-,Be able to talk to others who understand what I am dealing with as a caregiver,A5,A2,A4,,,,,,0,RF,A2,A1   ,A1,59,F,,N,,,,,,,Y,,,L8E,A5
+A3,-oth-,to get information.,A4,A1,A4,,,,,,0,RF,A2,A1   ,A1,67,F,,N,,,,,,,Y,,,L6K,A6
+A3,A5,,A5,A2,A4,,,,,,0,RF,A2,A1   ,A1,67,F,,N,,,,,,,,,,L6h,A6
+A2,A3,,A5,A2,A4,,,,,,0,RF,A2,A1   ,A1,59,F,,N,,,,,Y,,,,,L6H,A5
+A3,A5,,A4,A2,A4,,,,,,0,RF,A2,A1   ,A1,59,F,,N,,Y,,,,,,,,L7L,A5
+A3,A6,,A5,A2,A2,,,,,,0,RF,A1,A2   ,A1,61,F,,N,,,,,,,Y,,,L9T,A5
+A2,A4,,A4,A3,A4,,,,,,0,RF,A2,A1   ,A1,,F,,,,,,,,,,,,L7G,
+A1,,,,,,,,,,,0,RF,RF,A2   ,RF,,,,,,,,,,,,,,,
+A3,A6,,A5,A4,A4,A4,A4,A4,A4,A4,20,High,A2,A2   ,A1,74,M,,N,,Y,,,,,,,,M1W,A6
+A3,A1,,A5,A4,A4,A4,A4,A4,A4,A4,20,High,A2,A2   ,A1,74,M,,N,,Y,,,,,,,,m1w,A6
+A1,-oth-,Information,,,A3,,,,,,0,RF,A2,A2   ,RF,68,F,,N,,,,,,,Y,,,,A6
+A2,A2,,A5,A3,A4,A3,A3,A3,A3,A3,15,High,A2,A1   ,A1,,F,,,,,,,,,,,,,
+A3,A1,,A5,A4,A4,A4,A4,A4,A4,A4,20,High,A2,A2   ,A1,74,M,,N,,Y,,,,,,,,M1W,A6
+A2,A2,,A4,A3,A3,A3,A3,A3,A3,A3,15,High,A2,A2   ,A1,,F,,,,,,,,,,,,,
+A3,A3,,A3,A2,A3,,,,,,0,RF,A2,A1   ,A3,71,F,,N,,,,,,,,,Y,L9T,A6
+A2,-oth-,be educated and learn how to deal with situations,A3,RF,A3,,,,,,0,RF,A2,RF   ,A3,67,F,,N,,Y,,,,,,,,L6M,A6
+A2,-oth-,be educated and learn how to deal/react to difficult situations,A3,A3,A3,,,,,,0,RF,A2,A2   ,A3,67,F,,N,,Y,,,,,,,,L6M,A6
+A1,-oth-,Questions do not relate to the Aromatherapy Zoom we had today,,,RF,,,,,,0,RF,RF,RF   ,RF,,F,,,,,,,,,,,,,
+A2,A6,,A3,A3,A3,,,,,,0,RF,A2,A2   ,A3,76,F,,N,,,,,,,,Y,,,A6
+A3,A4,,A3,A2,A3,,,,,,0,RF,A2,A1   ,A3,78,F,,N,,,,,,,Y,,,L7G,A6
+A3,-oth-,To make caring for my mother with Alzheimers an easier experience with the help of all these lovely support coordinators & community,A5,A2,A4,,,,,,0,RF,A2,A1   ,A1,56,F,,N,,,,,,,Y,,,L0G,A5
+A1,A2,,,,A3,A3,A3,A3,RF,A3,12,Mid,A2,A2   ,RF,43,F,,RF,,Y,,,,,,,,M1S,A4
+A2,A2,,A3,A4,A3,A4,A4,A4,A4,A4,20,High,A2,A2   ,A3,43,F,,RF,,Y,,,,,,,,M1S,A4
+A3,A1,,A4,A3,A4,,,,,,0,RF,A2,A1   ,A1,51,F,,,,,,,,,,,,L2R,A5
+A3,A5,,A5,A3,A4,,,,,,0,RF,A2,A1   ,A1,,,,,,,,,,,,,,,
+A2,A1,,A5,A3,A4,,,,,,0,RF,A2,A1   ,A1,36,M,,N,,,,,,,,,,L2R,A4
+A1,A5,,,,A4,,,,,,0,RF,A2,A2   ,RF,43,F,,N,,,,,Y,,,,,L2R,A4
+A2,A5,,A5,A2,A3,A4,A4,A4,A4,A4,20,High,A2,A1   ,A1,15,F,,N,,Y,,Y,,,,,,L3R,A2
+A2,A3,,A3,A2,A2,A3,A3,A3,A3,A3,15,High,A1,A2   ,A3,37,NB,,DK,,,,,,,,Y,,,A4
+A3,A2,,A5,A4,A4,A4,A3,A2,A3,A3,15,High,A2,A2   ,A1,33,F,,N,,Y,,,,,,,,M1S,A4
+A3,A1,,A4,A4,A4,A4,A4,A3,A4,A4,19,High,A2,A2   ,A1,33,F,,N,,Y,,,,,,,,M1S,A4
+A2,A3,,A3,A2,A3,A3,A3,A3,A3,A3,15,High,A2,A1   ,A3,15,F,,N,,Y,,Y,,,,,,L4G,A2
+A2,A4,,A2,A2,A2,,,,,,0,RF,A1,A2   ,A2,40,F,,N,,Y,,,,,,,,L5R,A4
+A2,A4,,A4,RF,RF,A4,A4,A3,A4,A4,19,High,RF,RF   ,A1,45,F,,N,,Y,,,,,,,,M2H,A5
+A2,A4,,A4,A1,A1,A4,A3,A4,A4,A4,19,High,A1,A2   ,A1,45,F,,Y,,Y,,,,,,,,M2H,A5
+A3,A6,,A5,A4,A4,A4,A3,A4,A3,A3,17,High,A2,A2   ,A1,41,F,,N,,,,,,,,,Y,L1X,A4
+A3,A4,,A5,A4,A4,A4,A4,A4,A3,A3,18,High,A2,A2   ,A1,41,RF,,RF,,,,,,,,,Y,,A4
+A1,A6,,,,A1,,,,,,0,RF,A1,A2   ,RF,56,F,,N,Y,,,,,,,,,,A5
+A1,A5,,,,A3,A4,A4,A3,A4,A4,19,High,A2,A2   ,RF,19,M,,N,,,,,,,,Y,,L3S,A3
+A2,A5,,A2,A2,A2,RF,A3,A3,A3,RF,9,Low,A1,A2   ,A2,14,F,,N,,Y,,,,,,,,,A2
+A1,A2,,,,A2,A3,A3,A3,A2,A4,15,High,A1,A2   ,RF,16,F,,N,,,,,,,,Y,,L4E,A2
+A3,A3,,A4,A1,A1,A4,A4,A4,A4,A4,20,High,A1,A2   ,A1,40,NB,,N,Y,,,,,,,,,L8L,A4
+A1,A5,,,,A2,A4,A4,A4,A3,A4,19,High,A1,A2   ,RF,36,F,,Y,,,,,,,Y,,,N4S,A4
+A2,A5,,A4,A3,A3,,,,,,0,RF,A2,A2   ,A1,0,F,,N,,,,,,,,,,L6j,
+A1,A6,,,,A3,A3,A4,A3,A3,A4,17,High,A2,A2   ,RF,41,F,,N,,,,,,,,Y,,L6Y,A4
+A1,A6,,,,A3,A3,A3,A2,A3,A3,14,Mid,A2,A2   ,RF,41,F,,N,,,,,,,,Y,,l6y,A4
+A1,A5,,,,A2,A3,A3,A3,A3,A3,15,High,A1,A2   ,RF,39,M,,N,,Y,,,,,,,,l7a,A4
+A2,A5,,A5,A2,A4,,,,,,0,RF,A2,A1   ,A1,67,F,,N,,,,,,,Y,,,L6H,A6
+A2,A5,,A5,A2,A4,,,,,,0,RF,A2,A1   ,A1,67,F,,N,,,,,,,Y,,,L6H,A6
+A3,A3,,A3,A3,A3,,,,,,0,RF,A2,A2   ,A3,61,F,,N,,,,,,,Y,,,L9T,A5
+A1,A5,,,,A4,,,,,,0,RF,A2,A2   ,RF,72,F,,N,,,,,,,Y,,,L7P,A6
+A2,A3,,A4,A2,A3,,,,,,0,RF,A2,A1   ,A1,74,F,,N,,,,,,,,,,L6M,A6
+A1,-oth-,Recreational activity,,,A4,,,,,,0,RF,A2,A2   ,RF,68,F,,N,,,,,,,Y,,,L6K,A6
+A3,A5,,A3,A2,A3,,,,,,0,RF,A2,A1   ,A3,57,F,,N,,,,,,,Y,,,,A5
+A1,A2,,,,A3,,,,,,0,RF,A2,A2   ,RF,77,F,,N,Y,Y,Y,Y,Y,Y,,,,L7M,A6
+A1,A2,,,,A3,,,,,,0,RF,A2,A2   ,RF,77,F,,N,Y,Y,Y,Y,Y,Y,,,,L7M,A6
+A1,A2,,,,A3,,,,,,0,RF,A2,A2   ,RF,77,F,,N,Y,Y,Y,Y,Y,Y,,,,L7M,A6
+A1,A1,,,,A1,A3,A3,RF,A3,A3,12,Mid,A1,A2   ,RF,29,F,,N,,,,,,,Y,,,,A4
+A1,A5,,,,A4,A4,A4,A4,A4,A4,20,High,A2,A2   ,RF,,F,,,,,,,,,,,,L6y,
+A2,,,,,,,,,,,0,RF,RF,A2   ,RF,,,,,,,,,,,,,,,
+A2,A5,,A5,A2,A3,A4,A4,A4,A4,A4,20,High,A2,A1   ,A1,70,F,,N,,,,,,,,,,M1E,A6
+A2,A5,,A5,A2,A3,A4,A4,A4,A4,A4,20,High,A2,A1   ,A1,70,F,,N,,,,,,,,,,M1E,A6
+A1,A6,,,,A3,A3,A4,A4,A4,A4,19,High,A2,A2   ,RF,12,F,,N,,,,Y,,,,,,,A1
+A2,A5,,A4,A2,A3,,,,,,0,RF,A2,A1   ,A1,34,F,,N,,,,,,,,,,,A4
+A2,A2,,A4,A2,A2,A3,A3,A3,A3,A4,16,High,A1,A2   ,A1,,F,,,,,,,,,,,,L4E,
+A2,A5,,A3,A2,A3,A3,A3,A3,A3,A3,15,High,A2,A1   ,A3,15,F,,N,,,,,,,,Y,,M1V,A2
+A2,A5,,A4,RF,RF,A4,A4,A3,A3,A4,18,High,RF,RF   ,A1,15,M,,N,,Y,,,,,,,,L3p,A2
+A1,A3,,,,A2,,,,,,0,RF,A1,A2   ,RF,16,M,,Y,,,,Y,,,,,,N4T,A2
+A3,A3,,A5,A2,A3,,,,,,0,RF,A2,A1   ,A1,67,F,,N,,Y,,,,,,,,L6M,A6
+A3,A3,,A5,A2,A4,,,,,,0,RF,A2,A1   ,A1,61,F,,N,,,,,,,Y,,,L9T,A5
+A2,A2,,A5,A3,A4,,,,,,0,RF,A2,A1   ,A1,75,F,,N,,,,,,,Y,,,L7M,A6
+A2,A2,,A4,A3,A4,,,,,,0,RF,A2,A1   ,A1,75,F,,N,,,,,,,Y,,,L7m,A6
+A1,A1,,,,A4,A4,A4,A4,A4,A4,20,High,A2,A2   ,RF,21,F,,N,,,,Y,,,,,,N5C,A3
+A3,A2,,A5,A2,A4,,,,,,0,RF,A2,A1   ,A1,75,F,,N,,,,,,,Y,,,L7M,A6
+A1,A3,,,,A2,,,,,,0,RF,A1,A2   ,RF,75,F,,N,,,,,,,Y,,,,A6
+A1,A6,,,,RF,,,,,,0,RF,RF,RF   ,RF,74,F,,N,,,,,,,Y,,,L7M,A6
+A3,A3,,A5,A1,A3,,,,,,0,RF,A2,A1   ,A1,,M,,,,,,,,,,,,L6m,
+A1,A6,,,,A3,,,,,,0,RF,A2,A2   ,RF,63,F,,N,,,,,,,Y,,,L7M,A5
+A1,A6,,,,A3,,,,,,0,RF,A2,A2   ,RF,63,F,,N,,,,,,,Y,,,L7M,A5
+A2,A2,,A4,A2,A3,A3,A4,A3,A4,A4,18,High,A2,A1   ,A1,15,F,,N,,Y,,Y,,,,,,L4G,A2
+A3,A2,,A5,A3,A4,,,,,,0,RF,A2,A1   ,A1,59,F,,N,,Y,,,,,,,,L7L,A5
+A3,A3,,,A3,,,,,,,0,RF,RF,A2   ,RF,85,F,,N,,,,,,,Y,,,L7P,A6
+A2,A5,,A5,A2,A3,,,,,,0,RF,A2,A1   ,A1,61,F,,N,,,,,,,Y,,,L6J,A5
+A1,A5,,,,RF,A4,A4,A4,A4,A4,20,High,RF,RF   ,RF,17,F,,N,,Y,,,,,,,,,A2
+A1,A5,,,,A2,A3,A4,A3,A3,A4,17,High,A1,A2   ,RF,17,M,,N,,,,,,,Y,Y,,L3P,A2
+A1,A3,,,,A2,A3,A3,A2,A3,A3,14,Mid,A1,A2   ,RF,16,M,,N,,,,,,,Y,,,L3P,A2
+A2,A5,,A3,A2,A3,A3,A3,A3,A3,A3,15,High,A2,A1   ,A3,15,M,,N,,Y,,,,,,Y,,L3S,A2
+A2,A5,,A5,A3,A4,,,,,,0,RF,A2,A1   ,A1,81,F,,N,,,,,,,Y,,,L6M,A6
+A1,A3,,,,A2,,,,,,0,RF,A1,A2   ,RF,70,F,,N,,Y,,,,,,,,L5V,A6
+A1,A3,,,,A2,,,,,,0,RF,A1,A2   ,RF,70,F,,N,,Y,,,,,,,,L5V,A6
+A3,A6,,A5,A3,A4,,,,,,0,RF,A2,A1   ,A1,61,F,,N,,,,,,,Y,,,L7g,A5
+A1,A3,,,,A3,,,,,,0,RF,A2,A2   ,RF,73,F,,N,,,,,,,Y,,,L6J,A6
+A1,A5,,,,A3,,,,,,0,RF,A2,A2   ,RF,55,F,,N,,Y,,,,,,,,L5v,A5
+A3,A5,,A4,A2,A4,RF,A3,A3,A3,A3,12,Mid,A2,A1   ,A1,64,F,,N,,,Y,,,,,,,L3V,A5
+A1,A5,,,,A2,A2,A2,A3,A2,A3,12,Mid,A1,A2   ,RF,,F,,,,,,,,,,,,N0H,
+A1,A5,,,,A2,A3,A3,A2,A2,A3,13,Mid,A1,A2   ,RF,66,F,,N,,,Y,,,,,,,L3v,A6
+A1,A5,,,,A2,A2,A2,A2,A3,A3,12,Mid,A1,A2   ,RF,69,F,,N,,,Y,,,,,,,L3V,A6
+A3,-oth-,To learn,A4,A4,A4,A3,A3,A3,A3,A3,15,High,A2,A2   ,A1,54,F,,N,,,Y,,Y,,,,,L4M,A5
+A2,A5,,A3,A3,A4,A3,A4,A4,A4,A4,19,High,A2,A1   ,A3,50,F,,N,,,Y,,,,,,,604,A5
+A1,A3,,,,A1,A3,A3,RF,A2,A3,11,Mid,A1,A2   ,RF,16,M,,Y,,,,Y,,,,,,,A2
+A2,A1,,A5,A3,A4,A4,A4,A3,A4,A4,19,High,A2,A1   ,A1,71,F,,N,,,,,,,,,Y,M1E,A6
+A2,A2,,A4,A4,A4,A3,A2,A1,A3,A3,12,Mid,A2,A2   ,A1,83,F,,N,,,,,,,,Y,,M1E,A6
+A2,A2,,A4,A4,A4,A3,A2,A1,A3,A3,12,Mid,A2,A2   ,A1,83,F,,N,,,,,,,Y,,,M1E,A6
+A2,A5,,A5,A3,A4,A4,A4,A4,A4,A2,18,High,A2,A1   ,A1,67,F,,N,Y,,,,,,,,,M1E,A6
+A2,A5,,A5,A3,A4,A4,A4,A4,A4,A2,18,High,A2,A1   ,A1,67,F,,N,Y,,,,,,,,,M1E,A6
+A2,A5,,A5,A2,A4,A3,A3,A3,A3,A3,15,High,A2,A1   ,A1,63,M,,N,,,,,Y,,,,,M1E,A5
+A2,A5,,A5,A2,A4,A3,A3,A3,A3,A3,15,High,A2,A1   ,A1,63,M,,N,,,,,Y,,,,,M1E,A5
+A2,A2,,A5,A4,A4,A3,A2,A3,A3,A3,14,Mid,A2,A2   ,A1,77,M,,N,,,,,,,,,Y,M1E,A6
+A2,A1,,A5,A3,A4,A3,A3,A3,A4,A3,16,High,A2,A1   ,A1,63,F,,N,Y,,,,,,,,,M1E,A5
+A1,A2,,,,A3,A3,A3,A3,RF,A4,13,Mid,A2,A2   ,RF,,M,,,,,,,,,,,,,
+A1,A1,,,,A3,A4,A4,A3,A3,A4,18,High,A2,A2   ,RF,40,F,,N,Y,,,,,,,,,L4T,A4
+A1,-oth-,Connect and learn,,,A2,,,,,,0,RF,A1,A2   ,RF,62,F,,N,,,,,,,Y,,,L2S,A5
+A1,A5,,,,A3,,,,,,0,RF,A2,A2   ,RF,41,F,,N,,Y,,,,,,,,L2R,A4
+A1,A2,,,,A2,,,,,,0,RF,A1,A2   ,RF,46,F,,N,,,,,Y,,,,,L2R,A5
+A1,-oth-,Learn,,,A2,,,,,,0,RF,A1,A2   ,RF,39,M,,N,,,,,,,Y,,,L2M,A4
+A2,A5,,A4,A2,A3,,,,,,0,RF,A2,A1   ,A1,35,M,,N,,,,,Y,,,,,L2R,A4
+A1,A2,,,,A1,,,,,,0,RF,A1,A2   ,RF,43,F,,N,Y,,,,,,,,,,A4
+A1,A5,,,,RF,,,,,,0,RF,RF,RF   ,RF,,RF,,,,,,,,,,,,,
+A1,-oth-,Have something to do during covid,,,A2,,,,,,0,RF,A1,A2   ,RF,45,F,,N,,,,,Y,,,,,,A5
+A1,A2,,,,A2,,,,,,0,RF,A1,A2   ,RF,51,F,,N,,,,,Y,,,,,L0S,A5
+A1,A5,,,,A3,,,,,,0,RF,A2,A2   ,RF,29,F,,N,,,,,Y,,,,,L0R,A4
+A3,A5,,A5,A1,A3,,,,,,0,RF,A2,A1   ,A1,36,F,,N,,,,,Y,,,,,L0R,A4
+A1,-oth-,give back to community,,,A2,,,,,,0,RF,A1,A2   ,RF,55,F,,N,,,,,Y,,,,,,A5
+A1,A5,,,,A3,,,,,,0,RF,A2,A2   ,RF,43,M,,N,,,,,,,Y,,,L2R,A4
+A1,A1,,,,A2,,,,,,0,RF,A1,A2   ,RF,39,F,,N,,,,,,,Y,,,L2R,A4
+A2,A5,,A4,A2,A4,,,,,,0,RF,A2,A1   ,A1,38,M,,N,,,,,Y,,,,,L2R,A4
+A1,A1,,,,A3,,,,,,0,RF,A2,A2   ,RF,57,M,,N,,,,,,,Y,,,L2R,A5
+A1,-oth-,help others,,,A3,,,,,,0,RF,A2,A2   ,RF,52,F,,N,,,,,Y,,,,,L2R,A5
+A1,A5,,,,A3,,,,,,0,RF,A2,A2   ,RF,52,F,,N,,,,,,,Y,,,,A5
+A2,A2,,A2,A1,A4,,,,,,0,RF,A2,A1   ,A2,,NB,,,,,,,,,,,,N5c,
+A1,A5,,,,A4,A3,A3,A3,A3,A3,15,High,A2,A2   ,RF,,RF,,,,,,,,,,,,L6y,
+A1,A1,,,,A4,A3,A3,A3,A3,A3,15,High,A2,A2   ,RF,39,F,,Y,Y,,,,,,,,,L6y,A4
+A1,A1,,,,A4,A3,A3,A3,A3,A3,15,High,A2,A2   ,RF,39,F,,Y,Y,,,,,,,,,,A4
+A3,,,,,,,,,,,0,RF,RF,A2   ,RF,,,,,,,,,,,,,,,
+A1,A1,,,,A4,A3,A3,A3,A3,A3,15,High,A2,A2   ,RF,,F,,,,,,,,,,,,L6p,
+A2,A5,,A4,A3,A4,A4,A4,A4,A4,A4,20,High,A2,A1   ,A1,70,F,,N,Y,,,,,,,,,M1E,A6
+A2,A5,,A5,A3,A4,,,,,,0,RF,A2,A1   ,A1,47,F,,N,,,Y,,,,,,,L2R,A5
+A1,-oth-,garden experience,,,A3,,,,,,0,RF,A2,A2   ,RF,38,F,,N,,,,,Y,,,,,,A4
+A1,-oth-,learning skills,,,A3,,,,,,0,RF,A2,A2   ,RF,47,F,,N,,,,,,,Y,,,L2R,A5
+A1,A5,,,,A2,,,,,,0,RF,A1,A2   ,RF,51,M,,N,,,,,,,Y,,,,A5
+A3,A5,,A4,A1,A3,,,,,,0,RF,A2,A1   ,A1,53,F,,N,,,,,,,Y,,,,A5
+A2,A5,,A4,A2,A4,,,,,,0,RF,A2,A1   ,A1,36,F,,N,,,,,Y,,,,,L0S,A4
+A3,A5,,A4,A2,A3,,,,,,0,RF,A2,A1   ,A1,43,M,,N,,,,,,,Y,,,L2R,A4
+A1,A5,,,,A2,,,,,,0,RF,A1,A2   ,RF,40,F,,N,,,,,,,Y,,,L2R,A4
+A1,A2,,,,A2,,,,,,0,RF,A1,A2   ,RF,38,F,,N,,,,,,,Y,,,L2R,A4
+A1,A5,,,,A2,,,,,,0,RF,A1,A2   ,RF,39,F,,N,,,,,,,Y,,,L2R,A4
+A2,-oth-,help others,A4,A2,A4,,,,,,0,RF,A2,A1   ,A1,28,NB,,N,,,,,,,Y,,,L2R,A4
+A3,-oth-,gives me something to do,A4,A2,A3,,,,,,0,RF,A2,A1   ,A1,52,M,,N,,,,,Y,,,,,L2R,A5
+A3,A5,,A4,A2,A3,,,,,,0,RF,A2,A1   ,A1,43,F,,N,,,,,,,Y,,,L0R,A4
+A1,A2,,,,A2,,,,,,0,RF,A1,A2   ,RF,45,F,,N,,,,,,,Y,,,L2R,A5
+A2,-oth-,learning,A5,A2,A3,,,,,,0,RF,A2,A1   ,A1,48,F,,N,,,,,,,Y,,,L2R,A5
+A3,A5,,A4,A2,A3,,,,,,0,RF,A2,A1   ,A1,42,F,,N,,,,,,,Y,,,l2r,A4
+A1,A1,,,,A4,A3,A4,A4,A4,A4,19,High,A2,A2   ,RF,40,F,,N,Y,,,,,,,,,L4T,A4
+A2,A3,,A3,A2,A2,RF,A3,RF,RF,A3,6,Low,A1,A2   ,A3,66,F,,N,,,Y,,,,,,,L3V,A6
+A1,A5,,,,A4,A4,A4,A4,A4,A4,20,High,A2,A2   ,RF,50,F,,N,,,Y,,,,,,,,A5
+A2,A6,,A3,A2,A3,A3,A3,A3,A3,A3,15,High,A2,A1   ,A3,61,F,,N,,,,,Y,,,,,l9z,A5
+A1,-oth-,more tools,,,A2,RF,A2,A2,A2,A3,9,Low,A1,A2   ,RF,69,F,,N,,,Y,,,,,,,L3V,A6
+A2,A5,,A4,A3,A3,A3,A3,A3,A3,A3,15,High,A2,A2   ,A1,54,F,,N,,,Y,,,,,,,L4M,A5
+A2,A5,,A5,A2,A3,A2,A2,A3,A3,A3,13,Mid,A2,A1   ,A1,50,F,,N,,,Y,,,,,,,N0H,A5
+A2,A4,,A4,A4,A4,A4,A4,A4,A4,A4,20,High,A2,A2   ,A1,73,M,,N,,,,,,,Y,,,L7N,A6
+A3,A3,,A3,A1,A3,A2,A4,A3,A3,A3,15,High,A2,A1   ,A3,49,M,,N,,,,Y,,,,,,L7L,A5
+A3,A5,,A4,A1,A4,A4,A3,A3,RF,RF,10,Mid,A2,A1   ,A1,,M,,,,,,,,,,,,,
+A2,A3,,A4,A2,A3,A3,A4,A2,A3,A3,15,High,A2,A1   ,A1,56,M,,N,,,,,,,Y,,,,A5
+A3,A1,,A5,A3,A3,A4,A4,A4,A3,A4,19,High,A2,A2   ,A1,41,F,,N,,,,Y,Y,,,,,L6M,A4
+A3,A1,,A3,A1,A3,A3,A3,A3,A3,A3,15,High,A2,A1   ,A3,48,F,,N,,,,,,,Y,,,,A5
+A3,A2,,A4,A1,A3,A3,A3,A3,A3,A3,15,High,A2,A1   ,A1,49,M,,N,,,,,Y,,,,,,A5
+A3,A3,,A3,A3,A2,A2,A3,A3,A3,A3,14,Mid,A1,A2   ,A3,49,M,,N,,,,Y,Y,,,,,L7L,A5
+A1,A5,,,,A3,,,,,,0,RF,A2,A2   ,RF,38,M,,N,Y,,,,,,,,,L2R,A4
+A2,-oth-,sharing food,A4,A2,A3,,,,,,0,RF,A2,A1   ,A1,42,F,,N,,Y,,,,,,,,L2r,A4
+A3,A5,,A4,A2,A4,,,,,,0,RF,A2,A1   ,A1,47,F,,N,,,,,,,Y,,,L2R,A5
+A3,A5,,A4,A2,A4,,,,,,0,RF,A2,A1   ,A1,46,F,,N,,,,,,,Y,,,L2R,A5
+A1,-oth-,learning and connecting,,,A2,,,,,,0,RF,A1,A2   ,RF,55,F,,N,,,,,,,Y,,,L2R,A5
+A1,A5,,,,A3,,,,,,0,RF,A2,A2   ,RF,33,F,,N,,Y,,,,,,,,L2R,A4
+A1,A2,,,,A3,,,,,,0,RF,A2,A2   ,RF,39,F,,N,,,,,,,Y,,,L2R,A4
+A3,A3,,A3,A2,A3,A2,A3,A3,A3,A3,14,Mid,A2,A1   ,A3,49,M,,N,,,,Y,Y,,,,,L7L,A5
+A3,A5,,A5,A2,A4,A4,A4,A4,A4,A4,20,High,A2,A1   ,A1,61,F,,N,,,,,Y,,,,,,A5
+A3,A5,,A5,A2,A3,A3,A2,A3,A2,A3,13,Mid,A2,A1   ,A1,58,M,,N,,,,,Y,,,,,l6k,A5
+A2,A3,,A2,A1,A1,A1,A3,A2,A2,A3,11,Mid,A1,A2   ,A2,59,F,,N,,,,,,,Y,,,L7R,A5
+A3,A6,,A2,A1,A2,RF,A3,A3,A2,A3,11,Mid,A1,A1   ,A2,62,M,,N,,,,,Y,,,,,L7T,A5
+A3,A5,,A3,A2,A3,RF,A2,A4,A3,A3,12,Mid,A2,A1   ,A3,,F,,,,,,,,,,,,,
+A3,A3,,A3,A2,A1,A3,A3,A2,A3,A4,15,High,A1,A2   ,A3,60,M,,N,,,,,,,Y,,,L7M,A5
+A1,A4,,,,A1,A3,A3,RF,A3,A3,12,Mid,A1,A2   ,RF,66,F,,N,,,,,,,Y,,,L7T,A6
+A3,A5,,A5,A3,A3,A4,A4,A4,A4,A4,20,High,A2,A2   ,A1,58,F,,N,,,,,,,,,Y,L9T,A5
+A3,A5,,A5,A3,A4,A4,A4,A4,A4,A4,20,High,A2,A1   ,A1,58,F,,RF,,,,,,,,,Y,L9T,A5
+A3,A2,,A3,A1,A3,A2,A1,A3,A3,A2,11,Mid,A2,A1   ,A3,51,F,,N,Y,,,,Y,,,,,L7M,A5
+A2,A2,,A4,A3,A4,A3,A3,A3,A3,A3,15,High,A2,A1   ,A1,17,F,,N,Y,Y,,,,,,,,n2g,A2
+A1,A2,,,,A2,A3,A3,A3,A2,A3,14,Mid,A1,A2   ,RF,,NB,,,,,,,,,,,,N4S,
+A3,A4,,A4,A4,A4,A4,A4,A4,A1,A4,17,High,A2,A2   ,A1,18,NB,,N,,Y,,Y,,,,,,,A2
+A2,A5,,A3,A2,A3,A3,A3,A3,A3,A3,15,High,A2,A1   ,A3,37,F,,N,,Y,,,,,,,,M1W,A4
+A1,A5,,,,A2,A3,A3,A3,A3,A3,15,High,A1,A2   ,RF,30,F,,N,,Y,,,,,,,,M1V,A4
+A1,A5,,,,A2,A3,A3,A3,A3,A3,15,High,A1,A2   ,RF,29,M,,N,,Y,,,,,,,,M1V,A4
+A1,A5,,,,A2,A3,A3,A3,A3,A3,15,High,A1,A2   ,RF,29,M,,N,,Y,,,,,,,,M1V,A4
+A1,A5,,,,A2,A3,A3,A3,A3,A3,15,High,A1,A2   ,RF,56,F,,N,,Y,,,,,,,,M1V,A5
+A1,A5,,,,A2,A3,A3,A3,A3,A3,15,High,A1,A2   ,RF,56,F,,N,,Y,,,,,,,,M1V,A5
+A1,A2,,,,A2,A3,A3,A4,A3,A4,17,High,A1,A2   ,RF,34,F,,N,,,,,,,,,Y,,A4
+A3,A5,,A4,A3,A3,A3,RF,A3,A3,RF,9,Low,A2,A2   ,A1,39,F,,N,,,,,Y,,,,,,A4
+A3,A1,,A5,A4,A4,A4,A4,A4,A4,A4,20,High,A2,A2   ,A1,34,M,,N,,,,,Y,,,,,L6H,A4
+A3,A3,,A2,A2,A3,A3,A3,A3,A3,A3,15,High,A2,A1   ,A2,62,M,,N,,,,,Y,,,,,,A5
+A3,A3,,A3,A2,A3,A3,A3,A3,A3,A3,15,High,A2,A1   ,A3,62,M,,N,,,,,,,Y,,,L7S,A5
+A3,A3,,A2,A2,A2,A3,A3,A2,A3,A2,13,Mid,A1,A2   ,A2,50,M,,N,,,,,Y,,,,,L6k,A5
+A1,A2,,,,A3,A3,A3,A4,A3,A3,16,High,A2,A2   ,RF,,F,,,,,,,,,,,,,
+A3,A4,,A4,A1,A2,A3,A3,A2,A2,A3,13,Mid,A1,A1   ,A1,50,F,,N,,,,,,,Y,,,L7P,A5
+A2,A3,,A2,A2,A2,A2,A3,A3,A1,A3,12,Mid,A1,A2   ,A2,60,M,,N,,,,,,,Y,,,,A5
+A3,A6,,A4,A1,A2,A2,A3,A1,A2,A3,11,Mid,A1,A1   ,A1,62,M,,N,,,,,Y,,,,,L7T,A5
+A3,A1,,A3,A2,A3,A3,A3,A3,A3,A3,15,High,A2,A1   ,A3,,F,,,,,,,,,,,,L7m,
+A2,A2,,A4,A3,A4,A2,A3,A4,A4,A2,15,High,A2,A1   ,A1,,,,,,,,,,,,,,,
+A3,-oth-,I would say all of them actually,A3,A1,A4,A3,A3,A4,A3,A4,17,High,A2,A1   ,A3,45,F,,N,,,,,Y,,,,,,A5
+A3,A3,,A2,A4,A4,A4,A4,A4,A4,A4,20,High,A2,A2   ,A2,49,M,,N,,,,,,,Y,,,L9T,A5
+A3,A1,,A2,A4,A4,A4,A4,A4,A4,A4,20,High,A2,A2   ,A2,49,M,,N,,,,,Y,,,,,L9T,A5
+A3,A3,,A4,A2,A3,A3,A4,A4,A3,A4,18,High,A2,A1   ,A1,21,NB,,Y,,,,Y,Y,,,,,N5C,A3
+A3,A5,,A5,A2,A3,,,,,,0,RF,A2,A1   ,A1,53,F,,N,,,,,,,Y,,,L2R,A5
+A1,-oth-,Help others,,,A2,,,,,,0,RF,A1,A2   ,RF,37,M,,N,,,,,,,Y,,,,A4
+A2,A5,,A3,A2,A2,,,,,,0,RF,A1,A2   ,A3,62,F,,DK,,,,,,,Y,,,L2R,A5
+A1,A5,,,,A2,,,,,,0,RF,A1,A2   ,RF,42,F,,N,,,,,Y,,,,,L2R,A4
+A3,A3,,A4,A4,A2,,,,,,0,RF,A1,A2   ,A1,47,F,,N,,,,,,,,Y,,L2R,A5
+A1,-oth-,keep busy,,,A2,RF,A3,A2,A3,A3,11,Mid,A1,A2   ,RF,,RF,,,,,,,,,,,,,
+A1,A5,,,,A2,,,,,,0,RF,A1,A2   ,RF,44,F,,N,,,,,,,Y,,,L2R,A4
+A3,A5,,A4,A2,A3,,,,,,0,RF,A2,A1   ,A1,47,F,,N,,,,,,,Y,,,L2R,A5
+A3,A3,,A4,A2,A4,,,,,,0,RF,A2,A1   ,A1,48,F,,N,,,,,Y,,,,,L2R,A5
+A1,A5,,,,A2,,,,,,0,RF,A1,A2   ,RF,62,F,,N,,,,,,,,Y,,l2r,A5
+A1,A1,,,,A3,,,,,,0,RF,A2,A2   ,RF,49,F,,N,Y,,,,,,,,,L2R,A5
+A3,A3,,A5,A4,A4,A3,A3,A3,A3,A3,15,High,A2,A2   ,A1,60,F,,N,,,,,Y,,,,,L9T,A5
+A3,A6,,A4,A1,A2,A2,A2,A2,A2,A2,10,Mid,A1,A1   ,A1,65,F,,N,,,,,,,,Y,,L7N,A6
+A2,A3,,A1,A1,A1,A2,A2,A2,A2,A3,11,Mid,A1,A2   ,A2,59,F,,N,,,,,Y,,,,,L7J,A5
+A3,,,,,,,,,,,0,RF,RF,A2   ,RF,,,,,,,,,,,,,,,
+A2,A5,,RF,A1,A1,A1,A3,A2,A1,A3,10,Mid,A1,A2   ,RF,52,M,,N,,,,,Y,,,Y,,L7R,A5
+A2,A1,,A4,A2,A3,,,,,,0,RF,A2,A1   ,A1,,F,,,,,,,,,,,,L2R,
+A3,A3,,A4,A1,A3,,,,,,0,RF,A2,A1   ,A1,40,F,,,,,,,,,,,,L3M,A4
+A3,A1,,A5,A2,A4,,,,,,0,RF,A2,A1   ,A1,51,F,,,,,,,,,,,,L2M,A5
+A3,A5,,A5,A2,A4,,,,,,0,RF,A2,A1   ,A1,,F,,,,,,,,,,,,L2R,
+A1,A5,,,,RF,A3,A3,A3,RF,A3,12,Mid,RF,RF   ,RF,,,,,,,,,,,,,,,
+A1,,,,,,,,,,,0,RF,RF,A2   ,RF,,,,,,,,,,,,,,,
+A1,A1,,,,A2,,,,,,0,RF,A1,A2   ,RF,,,,,,,,,,,,,,,
+A1,A1,,,,A1,,,,,,0,RF,A1,A2   ,RF,55,RF,,RF,,,,,Y,,,,,l9l,A5
+A3,A6,,A4,RF,RF,A3,A3,RF,A3,A3,12,Mid,RF,RF   ,A1,,F,,,,,,,,,,,,L7G,
+A1,A1,,,,,,,,,,0,RF,RF,A2   ,RF,66,F,,N,,,,,,,,Y,,L6L,A6
+A1,A1,,,,A1,,,,,,0,RF,A1,A2   ,RF,99,F,,Y,,,,,,Y,,,,l7l,A6
+A1,A2,,,,A1,,,,,,0,RF,A1,A2   ,RF,88,F,,Y,Y,,,,,,,,,567,A6
+A1,A5,,,,A2,A3,A4,A4,A3,A4,18,High,A1,A2   ,RF,20,F,,N,,,,Y,,,,,,N1T,A3
+A3,-oth-,For something to look forward,RF,RF,RF,A4,A4,RF,RF,A4,12,Mid,RF,RF   ,RF,,F,,,,,,,,,,,,L5B,
+A3,-oth-,learn new things,RF,RF,RF,A1,A1,A1,A1,A1,5,Low,RF,RF   ,RF,84,F,,RF,,,,,,,,,Y,L4Z,A6
+A3,A5,,RF,RF,RF,A4,A3,A4,A3,A4,18,High,RF,RF   ,RF,70,F,,RF,,,,,,,,,Y,J3Y,A6
+A3,A3,,RF,RF,RF,A2,A2,A1,A2,A2,9,Low,RF,RF   ,RF,,F,,,,,,,,,,,,L4W,
+A3,A5,,RF,RF,RF,A4,A4,A4,A4,A4,20,High,RF,RF   ,RF,84,F,,RF,,,,,,,,,Y,L5W,A6
+A3,A5,,A5,RF,RF,A3,A3,A3,A3,A3,15,High,RF,RF   ,A1,72,F,,RF,,,,,,,,,Y,L5B,A6
+A1,A5,,,,RF,A4,A4,A4,A4,A4,20,High,RF,RF   ,RF,88,M,,RF,,,,,,,,,Y,L5A,A6
+A1,A5,,,,RF,A4,A4,A4,A4,A4,20,High,RF,RF   ,RF,88,M,,RF,,,,,,,,,Y,L5A,A6
+A2,-oth-,To keep fit while aging with dance exercises.,A2,RF,RF,A3,A4,A3,A3,A3,16,High,RF,RF   ,A2,,F,,,,,,,,,,,,M1V,
+A3,A3,,A5,RF,RF,A3,RF,RF,A4,A4,11,Mid,RF,RF   ,A1,62,F,,RF,,,,,,,,,Y,L5M,A5
+A2,A5,,A5,RF,RF,A4,A4,A3,A3,A4,18,High,RF,RF   ,A1,69,F,,RF,,,,,,,,,Y,L5R,A6
+A3,A1,,A5,RF,RF,A3,A3,A3,A3,A3,15,High,RF,RF   ,A1,,F,,,,,,,,,,,,J4x,
+A3,A5,,A5,RF,RF,A2,A3,A3,A3,A3,14,Mid,RF,RF   ,A1,,F,,,,,,,,,,,,L5b,
+A3,A2,,A2,RF,RF,A3,A3,A3,A3,A3,15,High,RF,RF   ,A2,,F,,,,,,,,,,,,,
+A3,A1,,A5,RF,RF,A3,A3,A3,A3,A3,15,High,RF,RF   ,A1,,F,,,,,,,,,,,,J4x,
+A3,-oth-,To learn a new art,A4,RF,RF,A2,A2,A2,A2,A2,10,Mid,RF,RF   ,A1,,F,,,,,,,,,,,,JXX,
+A3,A5,,A5,RF,A4,A3,A3,A3,A3,A3,15,High,A2,RF   ,A1,70,F,,RF,,,,,,,,,Y,L5R,A6
+A2,A2,,A5,RF,A2,A2,A2,A2,A3,A2,11,Mid,A1,RF   ,A1,72,F,,RF,,,,,,,,,Y,L5b,A6
+A3,A3,,A4,RF,A2,A3,A3,A3,A3,A3,15,High,A1,RF   ,A1,67,F,,RF,,,,,,,,,Y,L5M,A6
+A3,A5,,A5,RF,A2,A3,A3,A3,A3,A3,15,High,A1,RF   ,A1,,F,,,,,,,,,,,,L5M,
+A2,A1,,A4,A4,A4,A4,A4,A3,A4,A4,19,High,A2,A2   ,A1,34,F,,N,,,,,,,,Y,,L6Y,A4
+A2,A5,,A4,RF,A4,A3,A3,A3,A3,A3,15,High,A2,RF   ,A1,70,F,,RF,,,,,,,,,Y,L5R,A6
+A3,A3,,A5,RF,A4,A3,A3,A3,A3,A3,15,High,A2,RF   ,A1,,F,,,,,,,,,,,,L5R,
+A3,-oth-,Learn new things,A4,RF,A4,A4,A3,A3,A3,A3,16,High,A2,RF   ,A1,69,F,,RF,,,,,,,,,Y,L5B,A6
+A3,A2,,A4,RF,A3,A4,A3,A3,A3,A4,17,High,A2,RF   ,A1,85,M,,RF,,,,,,,,,Y,L5R,A6
+A2,A6,,A4,RF,A4,A3,A3,A3,A3,A3,15,High,A2,RF   ,A1,,F,,,,,,,,,,,,L5A,
+A2,A3,,A4,RF,A3,A3,A3,A3,A3,A3,15,High,A2,RF   ,A1,,F,,,,,,,,,,,,L5M,
+A3,A5,,A4,RF,A2,A3,A3,A3,A3,A3,15,High,A1,RF   ,A1,71,F,,RF,,,,,,,,,Y,l5m,A6
+A3,A5,,A5,RF,A3,A4,A4,A4,A4,A4,20,High,A2,RF   ,A1,73,F,,RF,,,,,,,,,Y,L4Z,A6
+A3,A1,,A4,RF,A2,A3,A2,A3,A3,A3,14,Mid,A1,RF   ,A1,,F,,,,,,,,,,,,L5B,
+A3,A2,,A5,RF,A1,A3,A3,A3,A3,A3,15,High,A1,RF   ,A1,,F,,,,,,,,,,,,J4x,
+A3,A5,,A5,RF,A2,A3,A3,A3,A3,A3,15,High,A1,RF   ,A1,77,F,,RF,,,,,,,,,Y,L5R,A6
+A3,-oth-,Be more creative/ productive,A5,RF,A2,A3,A3,A3,A3,A3,15,High,A1,RF   ,A1,70,F,,RF,,,,,,,,,Y,L5M,A6
+A2,A4,,A3,A3,A3,RF,A2,A1,A4,A1,8,Low,A2,A2   ,A3,,M,,,,,,,,,,,,,
+A2,A5,,RF,A3,A3,A3,A2,A3,A3,A2,13,Mid,A2,A2   ,RF,66,F,,N,,,,,Y,,,,,M6K,A6
+A3,A1,,A5,A1,A4,A4,A4,A4,A3,A3,18,High,A2,A1   ,A1,67,F,,N,,,,,,,,,Y,,A6
+A3,-oth-,Accompany my wife,RF,A3,A4,A4,A4,A3,A4,A4,19,High,A2,A1   ,RF,64,M,,N,,Y,,,,,,,,M6K,A5
+A3,-oth-,Feel moreconnected and grow food,A4,A4,A4,A3,A3,A3,A3,A4,16,High,A2,A2   ,A1,,F,,,,,,,,,,,,M6k,
+A3,A2,,A5,A1,A4,,,,,,0,RF,A2,A1   ,A1,67,F,,N,,,,,,,Y,,,,A6
+A2,A5,,A3,A2,A3,A3,A3,A3,A3,A3,15,High,A2,A1   ,A3,51,NB,,N,,,,,Y,,,,,M3P,A5
+A1,A5,,,,A4,A1,A1,A1,A1,A1,5,Low,A2,A2   ,RF,61,F,,N,,,Y,,Y,,,,,M6K,A5
+A1,A5,,,,A3,A3,A3,A3,A3,A3,15,High,A2,A2   ,RF,51,M,,N,,,Y,,,,,,,M6k,A5
+A3,A1,,A5,A1,A4,A4,A4,A4,A3,A3,18,High,A2,A1   ,A1,55,F,,N,,,,,,,,,Y,M6k,A5
+A3,A2,,A5,A1,A4,A4,A4,A4,A4,A4,20,High,A2,A1   ,A1,55,F,,N,,Y,,,,,,,,,A5
+A3,A5,,A3,A2,A3,A3,A4,A4,A3,A3,17,High,A2,A1   ,A3,51,F,,N,,,,,Y,,,,,M6k,A5
+A1,A5,,,,A3,A1,A3,A3,A3,A3,13,Mid,A2,A2   ,RF,46,F,,N,,,Y,,,,,,,M6S,A5
+A1,A1,,,,A3,A4,A4,A4,A4,A4,20,High,A2,A2   ,RF,58,F,,N,Y,,,,,,,,,M4y,A5
+A3,A1,,A5,A1,A4,A4,A4,A4,A4,A4,20,High,A2,A1   ,A1,62,F,,N,,,,,,,Y,,,M6k,A5
+A3,A3,,A5,A2,A4,A3,A4,A4,A4,A4,19,High,A2,A1   ,A1,63,F,,N,,Y,,,,,,,,M8V,A5
+A3,-oth-,"Talk to more people, feel less lonely",A5,A3,A4,A4,A4,A3,A4,A3,18,High,A2,A1   ,A1,75,F,,N,,Y,,,,,,,,M6K,A6
+A1,A1,,,,A3,A3,A3,A3,A3,A3,15,High,A2,A2   ,RF,46,F,,N,,Y,Y,,,,,,,M6S,A5
+A3,A5,,A3,A1,A3,,,,,,0,RF,A2,A1   ,A3,51,F,,N,,,,,Y,,,,,M6k,A5
+A3,A2,,A5,A2,A4,A1,A4,A4,A4,A4,17,High,A2,A1   ,A1,63,F,,N,,Y,,,,,,,,M9r,A5
+A1,A1,,,,A3,A3,A3,A3,A3,A3,15,High,A2,A2   ,RF,46,F,,N,,Y,Y,,,,,,,M6S,A5
+A3,A5,,A5,A4,A4,A3,A3,A3,A4,A3,16,High,A2,A2   ,A1,64,RF,,N,Y,,,,,,,,,M6k,A5
+A3,-oth-,To accommodate nutrition,A4,A3,A4,A4,A3,A4,A4,A3,18,High,A2,A1   ,A1,70,F,,RF,,,,,Y,,,,,M6R,A6
+A3,A2,,A5,A2,A4,A4,A4,A4,A4,A4,20,High,A2,A1   ,A1,,F,,,,,,,,,,,,M9r,
+A3,A5,,A5,A4,A4,A3,A3,A3,A3,A3,15,High,A2,A2   ,A1,64,F,,RF,Y,,,,,,,,,M6k,A5
+A1,A5,,,,A3,A4,A4,A4,A3,A3,18,High,A2,A2   ,RF,52,NB,,N,,,,Y,Y,,,,,M6k,A5
+A3,A5,,A4,A2,A3,A3,A4,A3,A3,A3,16,High,A2,A1   ,A1,38,M,,N,,Y,,,,,,,,M6K,A4
+A3,-oth-,All of the above,A3,A3,A4,A2,A2,A2,A3,A3,12,Mid,A2,A1   ,A3,40,F,,N,,Y,,,,,,,,M6r,A4
+A1,-oth-,Find out more about greenest city,,,A3,A4,A4,A4,A1,A4,17,High,A2,A2   ,RF,60,F,,N,,,,Y,,,,,,M6J,A5
+A3,A2,,A5,,A1,A4,A4,A4,A4,A4,20,High,A1,A2   ,A1,58,F,,N,,,,,,,,,,M6k,A5
+A1,A5,,,,A4,A4,A4,A4,A3,A4,19,High,A2,A2   ,RF,52,NB,,N,,,,Y,Y,,,,,M6k,A5
+A1,-oth-,"Talk to more people, connect to my community",,,A3,A4,A4,A4,A4,A4,20,High,A2,A2   ,RF,0,M,,N,Y,Y,,,,,,,,M6K,
+A3,A2,,A5,A1,A4,A4,A4,A3,A4,A4,19,High,A2,A1   ,A1,55,F,,N,,,,,,,Y,,,M6K,A5
+A3,A2,,A4,A1,A4,A3,A4,A3,A3,A4,17,High,A2,A1   ,A1,50,M,,N,,,,,,,Y,,,M6k,A5
+A3,A5,,A4,A4,A4,A3,RF,RF,RF,A3,6,Low,A2,A2   ,A1,,M,,,,,,,,,,,,M6K,
+A1,A5,,,,A2,RF,A3,A3,RF,A3,9,Low,A1,A2   ,RF,0,F,,N,Y,,,,,,,,,,
+A3,-oth-,Food security,A5,A3,A4,A4,A4,A4,A4,A4,20,High,A2,A1   ,A1,72,M,,N,,,,,,,Y,,,M6K,A6
+A3,-oth-,Food Security,A5,A3,A4,A4,A4,A4,A4,A4,20,High,A2,A1   ,A1,72,M,,N,,,,,,,Y,,,M6K,A6
+A3,A5,,A4,A2,A3,A3,A3,A3,A3,A3,15,High,A2,A1   ,A1,47,M,,N,,Y,,,,,,,,M6k,A5
+A3,A5,,A4,A3,A3,A3,A3,RF,RF,A3,9,Low,A2,A2   ,A1,,M,,,,,,,,,,,,M6k,
+A3,A5,,A3,A2,A3,A3,A3,A3,A3,A3,15,High,A2,A1   ,A3,41,M,,N,,Y,,,,,,,,M6k,A4
+A2,-oth-,To make the program successful by volunteering,A4,A4,A4,A4,A2,A3,A3,A3,15,High,A2,A2   ,A1,,M,,,,,,,,,,,,m6k,
+A3,A5,,A4,A3,A3,A4,A4,A4,A4,A1,17,High,A2,A2   ,A1,,NB,,,,,,,,,,,,K0K,
+A3,-oth-,Continuation of being part of community,A5,A3,A3,A4,A4,A4,A4,A4,20,High,A2,A2   ,A1,74,M,,N,,,,Y,,,,,,M6G,A6
+A2,A5,,A4,A3,A4,A4,A4,A4,A4,A4,20,High,A2,A1   ,A1,46,NB,,Y,,Y,,Y,,,,,,K0K,A5
+A3,-oth-,Build community,A5,A3,A4,A4,A4,A4,A4,A4,20,High,A2,A1   ,A1,69,F,,N,,,,,,,Y,,,M6G,A6
+A3,A5,,A5,A2,A3,A4,A4,A4,A4,A4,20,High,A2,A1   ,A1,52,F,,N,,,,,,,Y,,,M6k,A5
+A3,A5,,A5,A1,A4,A3,A4,A3,A4,A4,18,High,A2,A1   ,A1,56,F,,N,,Y,,,,,,,,M6k,A5
+A3,-oth-,"As a farmer back home, I wanted to continue farming. And be able to share food and share my farming skills",A5,A1,A4,A3,A4,A4,A4,A4,19,High,A2,A1   ,A1,56,F,,N,,Y,,,,,,,,M6k,A5
+A3,-oth-,"Make friends, continue farming,",A4,A1,A4,A4,A4,A4,A4,A4,20,High,A2,A1   ,A1,60,F,,N,,Y,,,,,,,,M6k,A5
+A3,A5,,A5,A3,A4,A3,A3,A3,A3,A4,16,High,A2,A1   ,A1,45,M,,N,,,,,,,Y,,,M6k,A5
+A1,A5,,,,A2,A3,A4,A4,A3,A3,17,High,A1,A2   ,RF,26,NB,,RF,,,,Y,,,,,,L8M,A4
+A3,-oth-,Share knowledge about gardening,A4,A4,A4,A3,RF,A4,A4,A1,12,Mid,A2,A2   ,A1,60,M,,N,,,,Y,Y,,,,,M6R,A5
+A3,-oth-,,A3,A3,A4,A3,A3,A3,A4,A4,17,High,A2,A1   ,A3,26,NB,,Y,,Y,,Y,Y,,,,,M5T,A4
+A3,-oth-,Make friend n continue farming,A5,A1,A4,A4,A4,A4,A4,A4,20,High,A2,A1   ,A1,64,F,,N,,Y,,,,,,,,M6k,A5
+A3,-oth-,"Make friends, continue farming as i was a farmer back home. I wamted to share food to people",A5,A1,A4,A4,A4,A4,A4,A4,20,High,A2,A1   ,A1,57,F,,N,,Y,,,,,,,,M6k,A5
+A1,A5,,,,A2,A3,A2,A3,A3,A4,15,High,A1,A2   ,RF,56,M,,N,,Y,,,,,,,,M9V,A5
+A3,A5,,A4,A3,A4,A4,A4,A4,A4,A4,20,High,A2,A1   ,A1,,F,,,,,,,,,,,,M6k,
+A3,A2,,A5,A2,A4,A4,A4,A3,A3,A4,18,High,A2,A1   ,A1,58,F,,N,,Y,,,,,,,,M6k,A5
+A1,A5,,,,A3,A4,A4,A4,A3,A4,19,High,A2,A2   ,RF,44,F,,N,,,,Y,,,,,,M6P,A4
+A1,A5,,,,A3,A4,A4,A4,A3,A4,19,High,A2,A2   ,RF,44,F,,N,,,,Y,,,,,,M6P,A4
+A3,A5,,A4,A3,A4,A4,A4,A3,A4,A4,19,High,A2,A1   ,A1,74,M,,N,,,,,,,Y,,,M6k,A6
+A1,A5,,,,A2,A4,A4,A4,A4,A4,20,High,A1,A2   ,RF,72,F,,N,,,,,,,Y,,,M6P,A6
+A1,A5,,,,A2,A4,A4,A4,A4,A4,20,High,A1,A2   ,RF,72,F,,N,,,,,,,Y,,,M6P,A6
+A1,-oth-,Supporting my friend,,,A4,A3,A3,A3,A2,A4,15,High,A2,A2   ,RF,29,M,,N,,,,,,,,,Y,M5T,A4
+A1,-oth-,I support advocacy work for homelesss amd i came to watch the film screening  eirk got,,,RF,A4,A3,A3,A4,A4,18,High,RF,RF   ,RF,83,F,,N,,,,,,,Y,,,M4r,A6
+A2,A5,,A4,A3,A3,A3,A3,A3,A3,A3,15,High,A2,A2   ,A1,51,M,,N,,,,,,,Y,,,M6K,A5
+A3,A1,,A4,A1,A4,A3,A3,A3,A3,A3,15,High,A2,A1   ,A1,77,M,,N,,Y,,,,,,,,M6K,A6
+A1,-oth-,I came to watch the film screening on homelessness as i am an advocate for homeless people,,,RF,A4,A4,A4,A4,A4,20,High,RF,RF   ,RF,83,F,,N,,,,,,,Y,,,M4k,A6
+A1,-oth-,to learn more teaching that will help me assist my students,,,A3,A4,A4,A4,A3,A4,19,High,A2,A2   ,RF,51,M,,N,,,Y,,,,,,,L1N,A5
+A1,A1,,,,A1,A4,A3,A4,RF,A3,14,Mid,A1,A2   ,RF,26,F,,N,,,Y,,,,,,,K9H,A4
+A2,A5,,A4,,A4,A4,A4,A4,A4,A4,20,High,A2,A2   ,A1,50,F,,N,,,Y,,,,,,,604,A5
+A1,A5,,,,A2,A2,A2,A3,A3,A3,13,Mid,A1,A2   ,RF,49,F,,N,,,,,,,Y,,,K9L,A5
+A1,-oth-,"work through my own ""stuff"", slowly but surely i get there with the help of others. I sincerley want to recognize things which may be holding me back in life.",,,A4,A4,A4,A4,A4,A4,20,High,A2,A2   ,RF,47,F,,N,,Y,Y,,,,,,,N0L,A5
+A3,A4,,A3,A3,A4,A3,A3,A3,A3,A3,15,High,A2,A1   ,A3,37,F,,N,,,Y,,,,,,,L9S,A4
+A1,A4,,,,A2,A3,A2,A3,A3,A3,14,Mid,A1,A2   ,RF,65,F,,N,,,Y,,,,,,,K9J,A6
+A1,-oth-,learning tradition self healing,,,A1,A1,A4,A1,RF,A3,9,Low,A1,A2   ,RF,50,F,,N,,,,,,,,Y,,L1N,A5
+A3,A4,,A5,A1,A4,A4,A4,A4,A4,A4,20,High,A2,A1   ,A1,55,F,,N,,,,,Y,,,,,L7S,A5
+A3,A5,,A5,A1,A4,A4,A4,A4,A4,A4,20,High,A2,A1   ,A1,55,F,,N,,,,,Y,,,,,L7S,A5
+A3,A3,,A5,A3,A3,,,,,,0,RF,A2,A2   ,A1,72,M,,N,,,,,Y,,,,,N5V,A6
+A3,A2,,A4,A3,A3,,,,,,0,RF,A2,A2   ,A1,,F,,,,,,,,,,,,N6J,
+A3,A2,,A4,A3,A3,,,,,,0,RF,A2,A2   ,A1,79,F,,N,,Y,,,,,,,,,A6
+A1,A2,,,,RF,,,,,,0,RF,RF,RF   ,RF,85,F,,N,,,,,,,,,Y,N5X,A6
+A2,A3,,A5,A4,A4,,,,,,0,RF,A2,A2   ,A1,91,F,,N,,,,,,,Y,,,,A6
+A3,A1,,A4,A2,A3,,,,,,0,RF,A2,A1   ,A1,59,M,,N,,,,,Y,,,,,,A5
+A3,A3,,A5,A4,A3,,,,,,0,RF,A2,A2   ,A1,83,F,,N,,,,,,,Y,,,,A6
+A3,-oth-,a social contact for my husband who has dementia,A4,A4,A4,,,,,,0,RF,A2,A2   ,A1,,,,,,,,,,,,,,,
+A3,A3,,A4,A3,A2,,,,,,0,RF,A1,A2   ,A1,79,F,,N,,,,Y,,,,,,N5X,A6
+A2,A3,,A4,A1,A2,,,,,,0,RF,A1,A1   ,A1,85,F,,N,,,,,,,Y,,,N0L,A6
+A2,A3,,A3,A1,A1,,,,,,0,RF,A1,A2   ,A3,85,F,,N,,,,,,,Y,,,N0L,A6
+A2,A3,,A3,A1,A1,,,,,,0,RF,A1,A2   ,A3,85,F,,N,,,,,,,Y,,,N0L,A6
+A2,A3,,,A4,A4,A4,A4,A4,A4,A4,20,High,A2,A2   ,RF,50,F,,N,,,Y,,,,,,,604,A5
+A1,A3,,,,A4,A4,A4,A4,A4,A4,20,High,A2,A2   ,RF,47,F,,N,,Y,Y,,,,,,,N0L,A5
+A1,A5,,,,A3,A3,A4,A3,A4,A4,18,High,A2,A2   ,RF,40,F,,N,,,Y,,,,,,,p2a,A4
+A2,A4,,A4,A3,A4,A1,A1,A1,A1,A1,5,Low,A2,A1   ,A1,7,F,,N,,,,,,,,,,L9S,A1
+A2,A4,,A4,A4,A4,A1,A1,A1,A1,A1,5,Low,A2,A2   ,A1,37,F,,,,,Y,,,,,,,,A4
+A3,A2,,A4,A1,A2,,,,,,0,RF,A1,A1   ,A1,88,F,,N,,,,,Y,,,,,N5R,A6
+A3,A5,,A4,A2,A3,RF,A2,A3,A3,A3,11,Mid,A2,A1   ,A1,,M,,,,,,,,,,,,,
+A2,-oth-,Have more cognitive social interaction,A4,A3,A3,,,,,,0,RF,A2,A2   ,A1,64,F,,N,,,,,,,Y,,,N5R,A5
+A2,A1,,A2,A2,A2,,,,,,0,RF,A1,A2   ,A2,78,M,,N,,,,,,,Y,,,N5X,A6
+A3,A3,,A5,A1,A4,,,,,,0,RF,A2,A1   ,A1,,F,,,,,,,,,,,,N5L,
+A3,A2,,A3,A1,A2,,,,,,0,RF,A1,A1   ,A3,73,F,,N,,,,,,,Y,,,N6K,A6
+A3,A1,,A2,A2,A2,A2,A3,RF,A2,A3,10,Mid,A1,A2   ,A2,23,F,,N,,,,Y,Y,,,,,L6M,A3
+A1,A3,,,,A2,A2,A2,A3,A3,A3,13,Mid,A1,A2   ,RF,49,F,,N,,,,,,,Y,,,K9L,A5
+A2,A1,,A4,A2,A4,,,,,,0,RF,A2,A1   ,A1,72,M,,N,,,,,Y,,,,,N5R,A6
+A2,A2,,A3,A2,RF,,,,,,0,RF,RF,RF   ,A3,65,F,,N,,,,,,,Y,,,N6K,A6
+A3,A6,,A4,A4,A4,,,,,,0,RF,A2,A2   ,A1,84,M,,N,,Y,,,,,,,,N6G,A6
+A3,A3,,A2,A2,A2,A3,A3,RF,A3,A3,12,Mid,A1,A2   ,A2,,F,,,,,,,,,,,,L7M,
+A2,A1,,A4,A1,,A3,A3,A3,A3,A3,15,High,RF,A2   ,A1,31,M,,N,,Y,,,,,,,,,A4
+A2,A6,,A1,A1,A1,A2,A3,A2,A2,A3,12,Mid,A1,A2   ,A2,59,F,,N,,,,,Y,,,,,L7R,A5
+A3,-oth-,all the above,A5,A1,A4,A3,A3,A3,A3,A3,15,High,A2,A1   ,A1,59,F,,N,,,,,Y,,,,,L7R,A5
+A3,-oth-,all of the above,A3,A4,A4,A3,A3,A3,A2,A3,14,Mid,A2,A2   ,A3,61,F,,N,,,,,,,Y,,,L7M,A5
+A3,A3,,A5,A4,A4,A3,A4,A3,A3,A3,16,High,A2,A2   ,A1,62,F,,N,,,,,,,,,Y,l1j,A5
+A3,-oth-,inprove mental health and mitigate problems,A3,A2,A3,A3,A2,A3,A2,A3,13,Mid,A2,A1   ,A3,50,M,,N,,,,,Y,,,,,l6l,A5
+A3,,,,,,A1,A1,A1,A1,RF,4,RF,RF,A2   ,RF,,,,,,,,,,,,,,,
+A2,A1,,A3,A2,A3,A3,A3,A3,A3,A4,16,High,A2,A1   ,A3,,M,,,,,,,,,,,,,
+A2,A3,,A2,A1,A3,A3,A2,A3,A2,A4,14,Mid,A2,A1   ,A2,52,F,,N,,,,,,,Y,,,,A5
+A1,-oth-,Help get life on a routine and schedule with epilepsy.,,,A1,A1,A1,A1,A1,A1,5,Low,A1,A2   ,RF,37,F,,N,,,,,Y,,,,,L4N,A4
+A3,A5,,A3,A1,A3,A2,A2,A3,A3,A2,12,Mid,A2,A1   ,A3,51,F,,N,Y,,,,,,,,,L7M,A5
+A3,A2,,A5,A1,A3,A4,A3,A3,A3,A4,17,High,A2,A1   ,A1,,F,,,,,,,,,,,,L6y,
+A3,A5,,A3,A3,A3,A3,A3,A3,A3,A3,15,High,A2,A2   ,A3,,F,,,,,,,,,,,,L6Y,
+A2,A1,,A3,A3,A4,A3,A3,A3,A3,A4,16,High,A2,A1   ,A3,35,F,,N,,,,,,,,,Y,,A4
+A3,A5,,A5,A3,A3,A3,A3,A3,A3,RF,12,Mid,A2,A2   ,A1,45,F,,N,,Y,,,,,,,,L6Y,A5
+A3,A1,,A5,A1,A4,A4,A4,A4,A4,A4,20,High,A2,A1   ,A1,30,F,,N,,,,,,,Y,,,L6Y,A4
+A3,A5,,A4,A1,A4,A4,A4,A4,A4,A4,20,High,A2,A1   ,A1,43,F,,N,,Y,,,,,,,,L6y,A4
+A3,A1,,A4,A2,A3,A3,A4,A3,A3,A4,17,High,A2,A1   ,A1,25,F,,N,,,,,,,Y,,,L6Y,A4
+A1,A5,,,,A2,,A3,A3,A3,A3,12,Mid,A1,A2   ,RF,,F,,,,,,,,,,,,,
+A3,A5,,A5,A4,A4,A3,A3,A3,A3,RF,12,Mid,A2,A2   ,A1,,F,,,,,,,,,,,,,
+A3,A2,,A3,A2,A3,A3,A3,A3,A3,A3,15,High,A2,A1   ,A3,,F,,,,,,,,,,,,,
+A3,A5,,A4,A2,A3,A4,A3,A3,A3,A4,17,High,A2,A1   ,A1,33,F,,N,,,,,,,Y,,,L6Y,A4
+A2,A3,,A2,A3,A4,A3,A3,A3,A3,A4,16,High,A2,A1   ,A2,35,F,,N,,,,,,,,Y,,,A4
+A3,A5,,A5,A1,A4,A4,A4,A3,A4,A3,18,High,A2,A1   ,A1,29,F,,N,,,,,,,Y,,,L6Y,A4
+A3,A5,,A5,A2,A4,A3,A3,A4,A3,A4,17,High,A2,A1   ,A1,34,F,,N,,,,,,,,,Y,L6Y,A4
+A3,A5,,A4,A3,A3,A3,A3,A3,A3,A4,16,High,A2,A2   ,A1,44,F,,N,,Y,,,,,,,,L4z,A4
+A2,A5,,A4,A3,A4,A4,A3,A4,A3,A3,17,High,A2,A1   ,A1,,,,,,,,,,,,,,,
+A3,A5,,A4,A1,A4,A3,A4,A4,A3,A4,18,High,A2,A1   ,A1,43,F,,N,,Y,,,,,,,,L6Y,A4
+A3,A5,,A3,A2,A3,A3,A4,A3,A4,A4,18,High,A2,A1   ,A3,48,F,,N,,Y,,,Y,,,,,L6Y,A5
+A2,A5,,A2,RF,RF,A3,A3,A3,A3,A3,15,High,RF,RF   ,A2,36,F,,N,,,,,,,Y,,,L6Y,A4
+A3,A3,,A5,A3,A4,A3,A2,A2,A3,A3,13,Mid,A2,A1   ,A1,47,F,,N,,,,,,,Y,,,L5A,A5
+A3,A1,,A3,A2,A3,A3,A3,A3,A3,A3,15,High,A2,A1   ,A3,,F,,,,,,,,,,,,,
+A3,A5,,A4,A2,A3,A3,A3,A3,A3,A4,16,High,A2,A1   ,A1,33,F,,N,,,,,,,Y,,,,A4
+A3,A1,,A5,A3,A4,A4,A4,A4,A4,A4,20,High,A2,A1   ,A1,36,F,,N,,,,,,,Y,,,L5B,A4
+A3,A6,,A4,A3,A4,A3,A3,A3,A3,A3,15,High,A2,A1   ,A1,,F,,,,,,,,,,,,L6Y,
+A2,A1,,A2,RF,A3,RF,RF,RF,RF,A4,4,RF,A2,RF   ,A2,,RF,,,,,,,,,,,,,
+A3,A1,,A5,A4,A4,A3,A4,A3,A3,A4,17,High,A2,A2   ,A1,37,F,,N,,,,,,,,,Y,L6y,A4
+A2,A5,,A5,A4,A4,A4,A4,A4,A4,A4,20,High,A2,A2   ,A1,39,M,,N,,Y,,,,,,,,,A4
+A3,A1,,A5,A4,A4,A4,A4,A4,A3,A4,19,High,A2,A2   ,A1,37,F,,N,,,,,,,,,Y,L6y,A4
+A2,A1,,A2,RF,RF,A3,A3,A3,A3,A3,15,High,RF,RF   ,A2,29,F,,N,,,,,,,,,Y,,A4
+A3,A5,,A5,A2,A3,A3,A3,A3,A3,A3,15,High,A2,A1   ,A1,40,F,,N,,,,,,,Y,,,,A4
+A1,A5,,,,A1,A3,A4,A4,A3,A4,18,High,A1,A2   ,RF,,F,,,,,,,,,,,,N4T,
+A1,A5,,,,A1,A3,A4,A4,A3,A4,18,High,A1,A2   ,RF,,NB,,,,,,,,,,,,N4T,
+A3,A1,,A4,A3,A3,A3,A3,A3,A3,A3,15,High,A2,A2   ,A1,32,F,,N,,,,,,,,,Y,L6Y,A4
+A3,A5,,A5,A1,A4,A4,A3,A3,A3,A3,16,High,A2,A1   ,A1,48,F,,N,,Y,,,,,,,,L5A,A5
+A3,A1,,A2,A2,A3,A3,A1,A1,A1,A1,7,Low,A2,A1   ,A2,34,F,,N,,,,,,,,,Y,,A4
+A3,A5,,A5,A1,A3,A4,A4,A3,A3,A3,17,High,A2,A1   ,A1,39,F,,N,,Y,,,,,,,,,A4
+A3,A5,,A5,A3,A4,A3,A2,A3,A3,A4,15,High,A2,A1   ,A1,43,RF,,,,,,,,,,,Y,,A4
+A3,A1,,A3,A3,A4,A3,A3,A3,A3,A4,16,High,A2,A1   ,A3,29,F,,N,,,,,,,Y,,,,A4
+A3,A2,,A2,A3,A3,A3,A4,A4,A3,A3,17,High,A2,A2   ,A2,34,F,,DK,,,,,,,,,Y,L6y,A4
+A3,A5,,A4,RF,A3,A3,A3,A3,A3,A3,15,High,A2,RF   ,A1,,F,,,,,,,,,,,,,
+A3,A5,,A1,A3,A3,A2,A1,A1,RF,A1,5,Low,A2,A2   ,A2,,-oth-,Prefer not to answer,,,,,,,,,,,,
+A3,A5,,RF,RF,A3,A3,A3,A3,A3,A3,15,High,A2,RF   ,RF,46,F,,N,,,,,,,Y,,,L6Y,A5
+A3,A5,,RF,A3,A3,A3,A3,A3,A3,A3,15,High,A2,A2   ,RF,,F,,,,,,,,,,,,L6Y,
+A3,A3,,A1,A3,A2,A2,A2,A2,RF,RF,6,Low,A1,A2   ,A2,,RF,,,,,,,,,,,,,
+A3,A2,,A5,A4,A4,A4,A4,A4,A4,A4,20,High,A2,A2   ,A1,43,F,,DK,,,,,,,,,Y,L6y,A4
+A3,A2,,A5,A4,A4,A4,A4,A4,A4,A4,20,High,A2,A2   ,A1,43,F,,RF,,,,,,,,,Y,L6y,A4
+A3,A2,,A5,A3,A3,,,,,A3,3,RF,A2,A2   ,A1,,F,,,,,,,,,,,,,
+A1,A5,,,,A2,A4,A4,A4,A3,A4,19,High,A1,A2   ,RF,45,F,,N,,Y,,,,,,,,L6S,A5
+A3,A1,,A5,A3,A4,A4,A4,A4,A4,A4,20,High,A2,A1   ,A1,38,F,,N,,,,,,,,,Y,L6Y,A4
+A3,A5,,A5,A1,A4,A4,A4,A4,A4,A4,20,High,A2,A1   ,A1,32,F,,N,,,,,,,Y,,,L6y,A4
+A3,A5,,A5,A1,A4,A4,A4,A4,A4,A4,20,High,A2,A1   ,A1,32,F,,N,,,,,,,Y,,,L6Y,A4
+A3,A5,,A4,A2,A3,A3,A3,A1,A3,A2,12,Mid,A2,A1   ,A1,,F,,,,,,,,,,,,L6Y,
+A3,A1,,A5,A2,A3,RF,A3,A3,A3,A3,12,Mid,A2,A1   ,A1,34,F,,N,,,,,,,Y,,Y,L6Y,A4
+A1,A2,,,,RF,A4,A4,A3,A3,A4,18,High,RF,RF   ,RF,,F,,,,,,,,,,,,L6Y,
+A1,A2,,,,RF,A4,A3,A3,A3,A4,17,High,RF,RF   ,RF,,F,,,,,,,,,,,,L6Y,
+A3,A2,,A2,A4,A4,RF,A3,A3,A3,A3,12,Mid,A2,A2   ,A2,,F,,,,,,,,,,,,,
+A1,A2,,,,RF,A4,A3,A3,A3,A4,17,High,RF,RF   ,RF,,F,,,,,,,,,,,,L6Y,
+A3,A2,,A3,A4,A4,A3,A3,A3,A3,A3,15,High,A2,A2   ,A3,,RF,,,,,,,,,,,,,
+A3,A5,,A5,A2,A4,A3,A4,A4,A3,A3,17,High,A2,A1   ,A1,38,F,,N,,,,,,,Y,,,L5J,A4
+A3,A5,,A5,A2,A4,A4,A4,A4,A4,A4,20,High,A2,A1   ,A1,38,F,,N,,,,,,,Y,,,L5J,A4
+A2,A5,,A5,A2,A3,A3,A3,A3,A3,A3,15,High,A2,A1   ,A1,36,RF,,RF,,,,,,,,,Y,L6Y,A4
+A3,A2,,A5,A3,A2,,,,,,0,RF,A1,A2   ,A1,79,F,,N,,,,Y,Y,,,,,N5X,A6
+A1,A6,,,,A1,A3,A2,A2,A2,A2,11,Mid,A1,A2   ,RF,66,M,,N,,,,,,,Y,,,L7g,A6
+A1,A4,,,,A3,RF,A4,A3,RF,A3,10,Mid,A2,A2   ,RF,77,DK,,N,Y,Y,Y,,Y,,,,,L5M,A6
+A1,A3,,,,A2,A2,A2,A2,A3,A3,12,Mid,A1,A2   ,RF,,F,,,,,,,,,,,,,
+A3,A4,,A2,A1,A1,A2,A3,A2,A2,A3,12,Mid,A1,A2   ,A2,45,M,,N,,,,,Y,,,,,L6H,A5
+A3,A4,,A4,A2,A3,A2,A3,A4,A4,A3,16,High,A2,A1   ,A1,63,F,,N,,,Y,,,,,,,L7P,A5
+A3,A3,,A4,A2,A3,A3,A3,A4,A3,A3,16,High,A2,A1   ,A1,63,F,,N,,,Y,,,,,,,L7P,A5
+A3,A5,,A5,A2,A3,A1,A3,A4,A4,A4,16,High,A2,A1   ,A1,58,F,,N,,,,,Y,,,,,,A5
+A1,A5,,A4,,A2,,,,,,0,RF,A1,A2   ,A1,51,F,,Y,,,,Y,,,,,,N5V,A5
+A1,A5,,,,A2,A3,A3,A4,A3,A3,16,High,A1,A2   ,RF,36,F,,N,,,,,Y,,,,,L1s,A4
+A2,A2,,A5,A3,A4,A4,A4,A3,A4,A4,19,High,A2,A1   ,A1,63,F,,N,,,,,,,Y,,,L1X,A5
+A3,-oth-,Learn to cook more foods,A4,A2,A2,A2,A2,A2,A3,A1,10,Mid,A1,A2   ,A1,,F,,,,,,,,,,,,L1h,
+A1,A3,,,,A3,A4,A4,A4,A4,A4,20,High,A2,A2   ,RF,27,F,,N,Y,,,,,,,,,,A4
+A2,A5,,A4,A3,A4,A3,A2,A4,A4,A2,15,High,A2,A1   ,A1,27,F,,DK,,,Y,,,,,,,L1h,A4
+A2,A5,,A5,A1,A3,A2,A3,A3,A4,A4,16,High,A2,A1   ,A1,,F,,,,,,,,,,,,,
+A1,A6,,A4,,A3,,,,,,0,RF,A2,A2   ,A1,35,F,,N,,Y,,,,,,,,,A4
+A1,A6,,A4,,A3,,,,,,0,RF,A2,A2   ,A1,35,F,,N,,Y,,,,,,,,,A4
+A3,A6,,A5,A4,A4,,,,,,0,RF,A2,A2   ,A1,51,F,,,,,,,,,Y,,,L8B,A5
+A1,A6,,A4,,A2,,,,,,0,RF,A1,A2   ,A1,72,F,,N,,,,,,,Y,,,L5L,A6
+A1,A5,,,,A1,A3,A3,A3,A3,A4,16,High,A1,A2   ,RF,24,F,,N,,,Y,,,,,,,L1h,A3
+A3,A5,,A5,A3,A4,A4,A4,A3,A4,A4,19,High,A2,A1   ,A1,15,F,,N,,,,,,,Y,,,L6C,A2
+A3,A1,,A2,RF,RF,A3,A3,A3,A3,A3,15,High,RF,RF   ,A2,15,F,,N,,Y,,,,,,,,,A2
+A2,A5,,A4,A2,A2,A3,A3,A2,A2,A3,13,Mid,A1,A2   ,A1,45,M,,N,Y,,,,,,,,,N2C,A5
+A3,A1,,A4,A4,A4,A3,A3,A3,A3,A3,15,High,A2,A2   ,A1,74,F,,N,,,,,,,Y,,,L1v,A6
+A1,A5,,,,A2,A2,A2,A2,A3,A3,12,Mid,A1,A2   ,RF,,F,,,,,,,,,,,,L1Z,
+A3,A4,,A2,RF,A1,A3,A3,A3,A2,A3,14,Mid,A1,RF   ,A2,45,F,,N,,,,,,,,Y,,L7T,A5
+A3,A3,,A5,A2,A4,A4,A3,A3,A3,A4,17,High,A2,A1   ,A1,72,DK,,N,,,,,,,Y,,,,A6
+A3,A6,,RF,A1,A1,A3,A2,A1,A1,A3,10,Mid,A1,A2   ,RF,49,F,,N,,,,,Y,,,,,L7G,A5
+A3,A4,,A2,A2,A1,A3,A3,A1,A1,A3,11,Mid,A1,A2   ,A2,49,F,,N,,,,,Y,,,,,L7G,A5
+A3,A4,,A4,A1,A1,A3,A3,A3,A3,A4,16,High,A1,A2   ,A1,60,F,,N,,,,,,,,,Y,L7R,A5
+A1,A5,,A5,,A3,A4,A4,A4,A4,A4,20,High,A2,A2   ,A1,62,M,,N,,,,,Y,,,,,,A5
+A3,A4,,A5,A3,A3,A3,A3,A3,A3,A3,15,High,A2,A2   ,A1,,M,,,,,,,,,,,,,
+A3,A2,,A4,A2,A3,A3,A4,A4,A3,A3,17,High,A2,A1   ,A1,56,F,,N,,Y,,,,,,,,,A5
+A1,A5,,A5,,A3,A4,A2,A3,A4,A2,15,High,A2,A2   ,A1,70,M,,N,,Y,,,,,,,,,A6
+A1,A1,,A4,,A3,A3,A3,A3,A3,A3,15,High,A2,A2   ,A1,27,F,,N,,,,,Y,,,,,,A4
+A1,A3,,A1,,A1,A2,A3,A2,A2,A3,12,Mid,A1,A2   ,A2,70,F,,N,,,,,Y,,,,,,A6
+A3,A4,,A5,A3,A3,A4,A4,A4,A3,A4,19,High,A2,A2   ,A1,51,M,,N,,,,,Y,,,,,L7S,A5
+A3,-oth-,all of the above,A2,A2,A3,A2,A2,A2,A2,A2,10,Mid,A2,A1   ,A2,,,,,,,,,,,,,,,
+A3,A5,,A4,A2,A3,A3,A3,A3,A4,A3,16,High,A2,A1   ,A1,,F,,,,,,,,,,,,,
+A3,-oth-,Housing,A4,A3,A3,A3,A3,RF,A2,A4,12,Mid,A2,A2   ,A1,62,M,,N,,,,,Y,,,,,L7T,A5
+A1,,,,,A2,A3,A3,A3,A4,A4,17,High,A1,A2   ,RF,,M,,,,,,,,,,,,n5c,
+A2,A2,,A5,A3,A3,A3,A3,A3,A3,A3,15,High,A2,A2   ,A1,0,F,,N,,,,,,,Y,,,,
+A1,A5,,,,A2,A3,A4,A4,A4,A4,19,High,A1,A2   ,RF,24,-oth-,transmasculine non-binary,Y,,,,Y,,,,,,N6H,A3
+A3,A2,,A5,A4,A3,,,,,,0,RF,A2,A2   ,A1,,M,,,,,,,,,,,,N6C,
+A1,A5,,,,A2,A3,A3,A3,A3,A3,15,High,A1,A2   ,RF,27,M,,Y,,,,Y,Y,,,,,n5c,A4
+A1,A3,,,,RF,A3,A4,A3,A3,A4,17,High,RF,RF   ,RF,13,NB,,N,,,,Y,,,,,,N4S,A2
+A3,A6,,A2,A1,A2,A3,A4,A3,A2,A3,15,High,A1,A1   ,A2,51,M,,N,,,,,,,,,Y,L7R,A5
+A2,A3,,A4,A3,A3,A3,A3,RF,A4,A3,13,Mid,A2,A2   ,A1,46,F,,N,,,,,Y,,,,,L7t,A5
+A3,A6,,A5,A4,A4,,,,,,0,RF,A2,A2   ,A1,60,M,,N,,Y,,,,,,,,N6P,A5
+A3,A1,,A5,A4,A4,A4,A3,A4,A3,A4,18,High,A2,A2   ,A1,30,F,,N,,,,,,,,,Y,L6Y,A4
+A2,A5,,A5,A3,A3,,,,,,0,RF,A2,A2   ,A1,64,F,,N,,,,,,,,,,L5L,A5
+A1,A5,,A5,,A4,,,,,,0,RF,A2,A2   ,A1,83,F,,N,,,,,,,,,,L5M,A6
+A1,A5,,A5,,A2,,,,,,0,RF,A1,A2   ,A1,,F,,,,,,,,,,,,L5R,
+A3,A5,,A5,A2,A3,,,,,,0,RF,A2,A1   ,A1,,F,,,,,,,,,,,,M9V,
+A1,A5,,A2,,A4,,,,,,0,RF,A2,A2   ,A2,73,F,,,,,,,,,,,,I9T,A6
+A1,A5,,A4,,A4,,,,,,0,RF,A2,A2   ,A1,73,F,,,,,,,,,,,,L6V,A6
+A3,A5,,A4,A2,A3,,,,,,0,RF,A2,A1   ,A1,,F,,,,,,,,,,,,L5M,
+A1,-oth-,I like dancing. It energized me.,A5,,A4,,,,,,0,RF,A2,A2   ,A1,,F,,,,,,,,,,,,L5M,
+A3,A5,,A5,A4,A4,,,,,,0,RF,A2,A2   ,A1,,F,,,,,,,,,,,,,
+A2,A3,,A5,A3,A3,,,,,,0,RF,A2,A2   ,A1,65,F,,,,,,,,,,,,,A6
+A1,A5,,A4,,A3,,,,,,0,RF,A2,A2   ,A1,,F,,,,,,,,,,,,L5V,
+A1,A5,,A5,,A2,,,,,,0,RF,A1,A2   ,A1,70,F,,,,,,,,,,,,L5A,A6
+A2,A3,,A2,A2,A3,,,,,,0,RF,A2,A1   ,A2,,F,,,,,,,,,,,,L5M,
+A2,A3,,A4,A3,A4,A4,A4,A4,A4,A4,20,High,A2,A1   ,A1,35,F,,N,,,,,,,Y,,,n0b,A4
+A1,-oth-,Discover options for my mom with dementia,A2,,RF,,,,,,0,RF,RF,RF   ,A2,54,M,,N,,,,,,,Y,,,V3H,A5
+A1,-oth-,Someone to consult about dementia care options for family member in Ontario,A5,,RF,,,,,,0,RF,RF,RF   ,A1,,F,,,,,,,,,,,,B0S,
+A3,A6,,A2,A2,A4,A3,A3,A3,A3,A3,15,High,A2,A1   ,A2,56,F,,N,,,,,Y,,,,,L7J,A5
+A3,A6,,A4,A2,A3,A3,A3,A3,A3,A3,15,High,A2,A1   ,A1,56,F,,N,,,,,Y,,,,,L7J,A5
+A2,A3,,A4,A2,RF,,,,,,0,RF,RF,RF   ,A1,62,M,,N,,,,,,,Y,,,n6b,A5
+A1,A4,,A2,,A4,,,,,,0,RF,A2,A2   ,A2,60,F,,N,,,,,,,Y,,,L7T,A5
+A1,-oth-,All above,RF,,A3,A3,A3,A3,RF,A3,12,Mid,A2,A2   ,RF,36,RF,,RF,,,,,,,,,Y,L6Y,A4
+A3,A3,,A2,RF,A3,,,,,,0,RF,A2,RF   ,A2,,F,,,,,,,,,,,,,
+A2,A5,,A2,A3,A4,,,,,,0,RF,A2,A1   ,A2,81,F,,N,,,,,,,Y,,,L6M,A6
+A3,A6,,A5,A4,A4,,,,,,0,RF,A2,A2   ,A1,73,M,,N,,,,,,,Y,,,L7P,A6
+A2,A3,,A5,A2,A3,,,,,,0,RF,A2,A1   ,A1,74,F,,N,,,,,,,Y,,,L6M,A6
+A2,-oth-,feel less alone and do something to take me away from being on alert nd caregiving 24/7,A4,A2,A3,,,,,,0,RF,A2,A1   ,A1,68,F,,N,,Y,,,,,,,,L6M,A6
+A3,A2,,A4,A2,A2,,,,,,0,RF,A1,A2   ,A1,63,F,,N,,,,,,,Y,,,L9T,A5
+A2,-oth-,do something fun,A5,A4,A4,,,,,,0,RF,A2,A2   ,A1,55,F,,N,,,,,,,Y,,,L7J,A5
+A1,A6,,A1,,A2,,,,,,0,RF,A1,A2   ,A2,87,F,,N,,,,,,,Y,,,L6K,A6
+A2,A3,,A2,A3,A3,,,,,,0,RF,A2,A2   ,A2,74,F,,N,,,,,,,Y,,,L7M,A6
+A3,A1,,A2,A3,A4,A3,A3,A4,A4,A3,17,High,A2,A1   ,A2,31,F,,N,,,,,,,,,Y,L6Y,A4
+A2,A2,,A2,A1,A4,,,,,,0,RF,A2,A1   ,A2,75,F,,N,,,,,,,Y,,,L7M,A6
+A1,A5,,,,A4,A4,A4,A4,A4,A4,20,High,A2,A2   ,RF,21,F,,N,,,,Y,,,,,,N0B,A3
+A2,A5,,A4,A3,A3,A1,A1,A1,A1,A1,5,Low,A2,A2   ,A1,,,,,,,,,,,,,,,
+A2,A3,,A4,A2,A3,A3,A4,A3,A3,A3,16,High,A2,A1   ,A1,76,F,,N,,,,,Y,,,,,l4r,A6
+A2,A3,,A4,A2,A3,A3,A4,A3,A3,A3,16,High,A2,A1   ,A1,76,F,,N,,,,,Y,,,,,L4R,A6
+A3,A4,,A4,A4,A3,A3,A3,A3,A3,A3,15,High,A2,A2   ,A1,,-oth-,Who ever,,,,,,,,,,,L9M,
+A3,A3,,A4,A1,A3,A3,A3,A3,A4,A4,17,High,A2,A1   ,A1,70,F,,N,,,,,,,Y,,,L4N,A6
+A3,A4,,A4,A2,A3,A4,A4,A3,A3,A4,18,High,A2,A1   ,A1,77,F,,N,,,,,,,,,,L0K,A6
+A3,A4,,A5,A2,A3,A2,A3,RF,A3,A3,11,Mid,A2,A1   ,A1,74,F,,N,,,,,,,,,,L0K,A6
+A2,A5,,A5,A3,A3,A3,A3,A3,A3,A3,15,High,A2,A2   ,A1,,F,,,,,,,,,,,,,
+A2,A3,,A4,A3,A3,A3,A3,A3,A4,A3,16,High,A2,A2   ,A1,56,F,,N,,,Y,,,,,,,L0k,A5
+A3,A6,,A5,A1,A3,A4,A4,A4,A4,A4,20,High,A2,A1   ,A1,64,F,,N,,,,,,,Y,,,L0K,A5
+A2,-oth-,This has been helpful getting the grief out of my physical body. Grief yoga was recommended by a couple of friends as a way to overcome some of the sadness from grief.,A4,A3,A3,A3,A3,A3,A3,A3,15,High,A2,A2   ,A1,76,F,,N,,,,,,,Y,,,L0K,A6
+A3,-oth-,get help dealing with my grief,A5,A2,A2,A4,A4,A3,A4,A4,19,High,A1,A2   ,A1,73,F,,N,,,,,,,Y,,,L9J,A6
+A3,A4,,A5,A2,A4,A3,A4,A3,A4,A4,18,High,A2,A1   ,A1,77,F,,N,,,,,,,Y,,,L0K,A6
+A2,A4,,A4,A3,A4,A4,A4,A4,A4,A4,20,High,A2,A1   ,A1,61,F,,N,,,,,,Y,,,,L9M,A5
+A3,A4,,A4,A1,A3,A4,A4,A4,A3,A4,19,High,A2,A1   ,A1,63,F,,N,,,Y,,,,,,,L7P,A5
+A2,A6,,A5,A1,A4,,,,,,0,RF,A2,A1   ,A1,69,M,,N,,,,,,,Y,,,,A6
+A2,A4,,A5,A2,A3,,,,,,0,RF,A2,A1   ,A1,62,F,,N,,,,,,,Y,,,L7g,A5
+A1,A4,,A5,,A3,,,,,,0,RF,A2,A2   ,A1,81,F,,N,,,,,,,Y,,,L7L,A6
+A2,A5,,A5,A2,A4,,,,,,0,RF,A2,A1   ,A1,75,F,,N,,,,,,,Y,,,,A6
+A2,A5,,A5,A2,A4,,,,,,0,RF,A2,A1   ,A1,75,F,,N,,,,,,,Y,,,L5J,A6
+A1,A3,,,,A1,A3,A4,A3,A3,RF,13,Mid,A1,A2   ,RF,,M,,,,,,,,,,,,N0J,
+A2,A2,,A4,A2,A3,,,,,,0,RF,A2,A1   ,A1,72,F,,N,,,,,,,Y,,,M4P,A6
+A3,A3,,A2,A3,A3,,,,,,0,RF,A2,A2   ,A2,75,M,,N,,,,Y,,,,,,M5V,A6
+A2,A2,,A2,A1,A3,,,,,,0,RF,A2,A1   ,A2,73,F,,N,,,,,,,Y,,,,A6
+A2,A2,,A4,A3,A4,,,,,,0,RF,A2,A1   ,A1,75,F,,N,,,,,,,Y,,,M4E,A6
+A2,A5,,A2,A4,A4,,,,,,0,RF,A2,A2   ,A2,58,F,,N,,,,,,,Y,,,M6S,A5
+A2,A5,,A4,A3,A4,,,,,,0,RF,A2,A1   ,A1,68,F,,N,,,,,,,Y,,,L3T,A6
+A2,-oth-,To discuss movies with other people I don't know to get range of opinions and experiences,A5,A4,A4,,,,,,0,RF,A2,A2   ,A1,58,F,,N,,,,,,,Y,,,M6S,A5
+A2,-oth-,Just interested in watching different movies,A4,RF,RF,,,,,,0,RF,RF,RF   ,A1,79,M,,N,,,,,,,Y,,,L0S,A6
+A2,A3,,A5,A3,A3,,,,,,0,RF,A2,A2   ,A1,67,F,,N,,,,,Y,Y,,,,M5A,A6
+A2,-oth-,learn more,A4,A1,A1,,,,,,0,RF,A1,A2   ,A1,80,F,,N,,,,,,Y,,,,m3a,A6
+A3,A5,,A4,A3,A4,,,,,,0,RF,A2,A1   ,A1,82,F,,N,,,,,,,Y,,,M3h,A6
+A2,A2,,A2,A2,A2,,,,,,0,RF,A1,A2   ,A2,76,F,,N,,,,,,,Y,,,M5M,A6
+A1,-oth-,Discuss film with more people,A5,,RF,,,,,,0,RF,RF,RF   ,A1,,F,,,,,,,,,,,,M4P,
+A3,A5,,RF,RF,RF,,,,,,0,RF,RF,RF   ,RF,,,,,,,,,,,,,,,
+A3,A2,,A5,A4,A4,,,,,,0,RF,A2,A2   ,A1,,F,,,,,,,,,,,,M4J,
+A2,A3,,A5,A2,A3,,,,,,0,RF,A2,A1   ,A1,,F,,,,,,,,,,,,M2P,
+A2,-oth-,To see movies and hear other people’s input about said movie,A5,A4,A4,,,,,,0,RF,A2,A2   ,A1,60,F,,N,,,,Y,Y,,,,,,A5
+A3,A2,,A5,A4,A4,,,,,,0,RF,A2,A2   ,A1,66,F,,N,,,,,Y,,,,,M4J,A6
+A2,A5,,A5,A4,A4,,,,,,0,RF,A2,A2   ,A1,72,F,,N,,,,,,,Y,,,,A6
+A2,A5,,A5,A4,A4,,,,,,0,RF,A2,A2   ,A1,,F,,,,,,,,,,,,T6T,
+A3,A2,,A4,A3,A3,,,,,,0,RF,A2,A2   ,A1,69,F,,N,,,,,,Y,,,,M2J,A6
+A1,-oth-,Enjoy films i may not watch otherwise,A4,,A3,,,,,,0,RF,A2,A2   ,A1,65,F,,N,,,,,,,Y,,,M4m,A6
+A3,-oth-,see and discuss films,A5,A4,,,,,,,0,RF,RF,A2   ,A1,75,F,,N,,,,,,,Y,,,M5M,A6
+A3,A5,,A4,A2,A3,,,,,,0,RF,A2,A1   ,A1,79,F,,N,,,,,,,Y,,,M2K,A6
+A1,,,A2,,A4,,,,,,0,RF,A2,A2   ,A2,,F,,,,,,,,,,,,m5e,
+A3,-oth-,Explore new viewpoints,A5,A2,A3,,,,,,0,RF,A2,A1   ,A1,69,F,,N,,,,,,,Y,,,m4c,A6
+A2,A2,,A4,A3,A4,,,,,,0,RF,A2,A1   ,A1,68,F,,N,,,,,,,Y,,,M3H,A6
+A3,A5,,A4,A2,A3,,,,,,0,RF,A2,A1   ,A1,68,F,,N,,,,,,,Y,,,M4P,A6
+A3,-oth-,Discuss film with other people to get different perspectives and deep understanding. Meeting other people  and connecting with a similar demographic is an important element.,A4,A2,A2,,,,,,0,RF,A1,A2   ,A1,74,M,,,,,,,,,,,,M4S,A6
+A3,A2,,A4,A3,A3,,,,,,0,RF,A2,A2   ,A1,73,F,,N,,,,,,,Y,,,M4E,A6
+A2,A2,,A5,A3,A3,,,,,,0,RF,A2,A2   ,A1,68,F,,N,,,,,,,Y,,,,A6
+A1,A3,,A5,,A2,,,,,,0,RF,A1,A2   ,A1,66,F,,N,,,,,,,Y,,,M5S,A6
+A2,A2,,A4,A3,A2,,,,,,0,RF,A1,A2   ,A1,,F,,,,,,,,,,,,,
+A3,-oth-,process grief,A4,A3,A3,A4,A4,A3,A4,A4,19,High,A2,A2   ,A1,,,,,,,,,,,,,,L4R,
+A2,A2,,A4,A2,A3,,,,,,0,RF,A2,A1   ,A1,82,F,,N,,,,,,,Y,,,M3A,A6
+A1,A4,,,,A4,A3,A4,A3,A3,A3,16,High,A2,A2   ,RF,,NB,,,,,,,,,,,,N4S,
+A2,A2,,A2,A1,A2,,,,,,0,RF,A1,A1   ,A2,67,M,,N,,,,Y,,,,,,M9N,A6
+A3,A5,,A4,A2,A3,,,,,,0,RF,A2,A1   ,A1,78,F,,N,,,,,,,,,,L3T,A6
+A2,A2,,A4,A3,A3,,,,,,0,RF,A2,A2   ,A1,,F,,,,,,,,,,,,,
+A2,-oth-,Learn,A4,A3,A4,,,,,,0,RF,A2,A1   ,A1,69,F,,N,,,,,,,Y,,,M2N,A6
+A3,-oth-,Discuss movies,A5,A2,A3,,,,,,0,RF,A2,A1   ,A1,64,F,,N,,,,,,,Y,,,,A5
+A2,-oth-,To watch movies & hear other people's thoughts of said movie,A5,RF,RF,,,,,,0,RF,RF,RF   ,A1,60,F,,N,,,,Y,Y,,,,,,A5
+A3,A2,,A5,A3,A3,,,,,,0,RF,A2,A2   ,A1,,F,,,,,,,,,,,,M4S,
+A3,A6,,A5,A3,A3,,,,,,0,RF,A2,A2   ,A1,41,F,,N,,Y,,,,,,,,L5R,A4
+A3,A5,,A5,A3,A3,,,,,,0,RF,A2,A2   ,A1,41,F,,N,,Y,,,,,,,,L5r,A4
+A3,-oth-,See films I otherwise would not see,A5,A3,A3,,,,,,0,RF,A2,A2   ,A1,72,M,,N,,,,,,,Y,,,M5N,A6
+A3,A5,,A4,A3,A3,,,,,,0,RF,A2,A2   ,A1,41,F,,N,,Y,,,,,,,,L5R,A4
+A3,A5,,A4,A3,A3,,,,,,0,RF,A2,A2   ,A1,41,F,,N,,Y,,,,,,,,L5R,A4
+A3,A2,,A4,A3,A3,,,,,,0,RF,A2,A2   ,A1,41,F,,N,,Y,,,,,,,,L5R,A4
+A2,-oth-,"brain stimulation to improve cognition, keep up socially in conversations, maintain outside and cultural art interests",A4,A3,A3,,,,,,0,RF,A2,A2   ,A1,74,F,,N,,,,,,,Y,,,M2J,A6
+A1,-oth-,,A4,,RF,A1,,,,,1,RF,RF,RF   ,A1,,-oth-,,,,,,,,,,,,,
+A2,A5,,A2,A2,A1,,,,,,0,RF,A1,A2   ,A2,60,F,,N,,Y,,,,,,,,M4y,A5
+A2,A3,,A4,A2,A3,,,,,,0,RF,A2,A1   ,A1,0,F,,N,,,,,,,Y,,,M3P,
+A3,A4,,A5,A2,A3,A3,A2,A3,A2,A3,13,Mid,A2,A1   ,A1,68,F,,N,,,,,,,Y,,,L4R,A6
+A2,A5,,A5,A2,A4,,,,,,0,RF,A2,A1   ,A1,70,F,,N,,Y,,,,,,,,M2J,A6
+A1,-oth-,"just retired - wanted to find new hobbies in the community, I love movies and people, seemed like a perfect fit. This was my first time attending. Appreciate this program a lot.",RF,,A2,,,,,,0,RF,A1,A2   ,RF,68,F,,N,,Y,,,,,,,,M6R,A6
+A1,-oth-,just retired and was looking for community involvement,RF,,A2,,,,,,0,RF,A1,A2   ,RF,68,F,,N,,Y,,,,,,,,M6R,A6
+A3,A5,,A4,A4,A3,,,,,,0,RF,A2,A2   ,A1,78,F,,N,,,,,,,Y,,,M4G,A6
+A2,A3,,A4,A4,A3,A4,A4,A4,A4,A4,20,High,A2,A2   ,A1,62,F,,N,,,,,,,Y,,,L4R,A5
+A2,A5,,A5,A3,A4,A3,A3,A3,A3,A3,15,High,A2,A1   ,A1,64,F,,N,,,,,,,,,Y,L5L,A5
+A1,A5,,A5,,A3,A4,A4,A3,A3,A3,17,High,A2,A2   ,A1,83,F,,N,,,,,,,,,Y,L5M,A6
+A1,A5,,A5,,A2,A3,A2,A2,A2,A4,13,Mid,A1,A2   ,A1,,F,,,,,,,,,,,,L5R,
+A1,A6,,A5,,A3,,,,,,0,RF,A2,A2   ,A1,74,F,,N,,,,,,,Y,,,N3R,A6
+A1,A6,,A5,,A4,,,,,,0,RF,A2,A2   ,A1,74,F,,N,,,,,,,Y,,,N3R,A6
+A1,A5,,A4,,A3,A3,A3,A4,A2,A3,15,High,A2,A2   ,A1,73,F,,,,,,,,,,,,L6V,A6
+A3,A5,,A4,A2,A2,A3,RF,RF,A3,A3,9,Low,A1,A2   ,A1,,F,,,,,,,,,,,,L5M,
+A1,-oth-,I like dancing. It energized me.,A5,,A4,A4,A3,A4,A4,A3,18,High,A2,A2   ,A1,,F,,,,,,,,,,,,L5M,
+A3,A5,,A5,A4,A4,A3,A3,A3,A3,A3,15,High,A2,A2   ,A1,,F,,,,,,,,,,,,,
+A3,A4,,A4,,,,,,,,0,RF,RF,A2   ,A1,,,,,,,,,,,,,,,
+A2,A3,,A5,A3,A4,A3,A3,A3,A3,A3,15,High,A2,A1   ,A1,65,F,,,,,,,,,,,,,A6
+A1,A5,,A4,,A3,A3,A3,A3,A3,A3,15,High,A2,A2   ,A1,,F,,,,,,,,,,,,L5V,
+A2,A2,,A2,A4,A3,,,,,,0,RF,A2,A2   ,A2,68,F,,N,,,,,,,,,Y,L6M,A6
+A1,A5,,A5,,A2,A3,A3,A3,A3,RF,12,Mid,A1,A2   ,A1,70,F,,,,,,,,,,,,L5A,A6
+A2,A3,,A2,,A2,A3,A1,A3,A3,A3,13,Mid,A1,A2   ,A2,,F,,,,,,,,,,,,L5M,
+A3,A4,,A5,A4,A3,,,,,,0,RF,A2,A2   ,A1,82,F,,N,,,,,,,Y,,,L6L,A6
+A3,A5,,A2,A3,A3,,,,,,0,RF,A2,A2   ,A2,51,F,,N,,,,,,,Y,,,L5N,A5
+A3,A3,,A2,A3,A3,,,,,,0,RF,A2,A2   ,A2,79,M,,N,,,,,,,Y,,,L5M,A6
+A3,A6,,A4,A3,A3,,,,,,0,RF,A2,A2   ,A1,79,F,,N,,,,,,,Y,,,L7M,A6
+A1,A4,,A4,,A4,,,,,,0,RF,A2,A2   ,A1,69,M,,N,,,,,,,Y,,,L5H,A6
+A3,A4,,A4,A2,A3,,,,,,0,RF,A2,A1   ,A1,75,F,,N,,,,,,,Y,,,L7L,A6
+A3,A4,,A5,A2,A3,,,,,,0,RF,A2,A1   ,A1,69,F,,N,,,,,,,Y,,,L7T,A6
+A2,A4,,A4,A2,A2,,,,,,0,RF,A1,A2   ,A1,69,F,,N,,,,,,,Y,,,L6M,A6
+A2,A4,,A4,A2,A3,,,,,,0,RF,A2,A1   ,A1,79,M,,N,,,,,,,Y,,,L7L,A6
+A2,A2,,A4,A1,A3,,,,,,0,RF,A2,A1   ,A1,57,F,,N,,,,,,,,,Y,L6J,A5
+A1,,,,,,,,,,,0,RF,RF,A2   ,RF,,,,,,,,,,,,,,,
+A2,A5,,A2,A2,A2,A3,A2,A3,A2,A1,11,Mid,A1,A2   ,A2,34,F,,N,,,Y,,,,,,,p0p,A4
+A1,A2,,,,A3,A4,A4,A4,A3,A4,19,High,A2,A2   ,RF,,F,,,,,,,,,,,,L4R,
+A1,A5,,,,A2,A3,A3,A3,A3,A3,15,High,A1,A2   ,RF,59,F,,N,,,Y,,,,,,,P0P,A5
+A1,A4,,,,A2,A2,A3,A3,A2,A3,13,Mid,A1,A2   ,RF,,F,,,,,,,,,,,,P0p,
+A2,A4,,A2,A3,A2,A2,A2,A2,A3,A2,11,Mid,A1,A2   ,A2,60,F,,Y,,,,Y,,,,,,L3V,A5
+A1,A2,,,,A4,A4,A4,A4,A3,A4,19,High,A2,A2   ,RF,28,F,,N,,,Y,,,,,,,L4R,A4
+A2,-oth-,all of the above,A5,A4,A3,A4,A4,A4,A4,A4,20,High,A2,A2   ,A1,48,F,,N,,,Y,,,,,,,N0L,A5
+A1,A6,,,,A2,A2,A2,A2,A2,A3,11,Mid,A1,A2   ,RF,51,F,,N,,,Y,,Y,,,,,N4N,A5
+A3,-oth-,,RF,RF,RF,RF,RF,RF,RF,RF,0,RF,RF,RF   ,RF,0,F,,N,,,,,,,,,,,
+A1,A4,,,,A2,A3,A3,A3,A2,A3,14,Mid,A1,A2   ,RF,43,F,,N,,,Y,,,,,,,P0P,A4
+A1,A4,,,,A2,A2,A2,A2,A3,A2,11,Mid,A1,A2   ,RF,60,F,,Y,,,,Y,,,,,,L3V,A5
+A2,-oth-,all of the above,A4,A4,A3,A4,A4,A4,A4,A4,20,High,A2,A2   ,A1,48,F,,N,,,Y,,,,,,,N0L,A5
+A2,-oth-,all of the above,A5,A4,A3,A4,A4,A4,A4,A4,20,High,A2,A2   ,A1,48,F,,N,,,Y,,,,,,,N0L,A5
+A1,A5,,,,A3,A3,A3,A3,A3,A3,15,High,A2,A2   ,RF,32,F,,N,,,Y,,,,,,,L4n,A4
+A2,-oth-,all of the above,A5,A4,A3,A4,A4,A4,A4,A4,20,High,A2,A2   ,A1,48,F,,N,,,Y,,,,,,,N0L,A5
+A3,-oth-,,RF,RF,RF,RF,RF,RF,RF,RF,0,RF,RF,RF   ,RF,34,F,,N,,,,,,,,,Y,,A4
+A2,-oth-,all of the above,A5,A4,A3,A4,A4,A4,A4,A4,20,High,A2,A2   ,A1,48,F,,N,,,Y,,,,,,,48,A5
+A3,-oth-,Helped me a lot to cope with covid by keeping busy and learning new things,A5,A2,A3,A3,A3,A3,A3,A3,15,High,A2,A1   ,A1,72,F,,N,,Y,,,,,,,,,A6
+A3,A5,,A5,A3,A3,A4,A4,A3,A4,A4,19,High,A2,A2   ,A1,80,F,,N,,Y,,,,,,,,L5R,A6
+A3,-oth-,Pass time,A4,A4,A3,A4,A4,A3,A3,A3,17,High,A2,A2   ,A1,69,RF,,RF,,,,,,,,,Y,L5B,A6
+A3,A2,,A5,A3,A4,A3,A3,RF,A3,A3,12,Mid,A2,A1   ,A1,71,F,,N,,,,,,,,,Y,L,A6
+A3,A6,,A5,A1,A1,RF,RF,A4,A4,RF,8,Low,A1,A2   ,A1,75,RF,,N,,,,,,,,,Y,,A6
+A3,A5,,A5,A3,A4,A4,A4,A4,A4,A4,20,High,A2,A1   ,A1,71,F,,N,,Y,,,,,,,,J3y,A6
+A3,A3,,A5,RF,A3,RF,RF,RF,A3,RF,3,RF,A2,RF   ,A1,68,F,,N,,,,,,,,,Y,L5m,A6
+A3,A5,,A4,A3,A3,A3,A3,A3,A3,A3,15,High,A2,A2   ,A1,72,F,,N,,Y,,,,,,,,l5m,A6
+A3,-oth-,Enjoy the program’s,A5,A3,RF,A3,RF,RF,A3,RF,6,Low,RF,RF   ,A1,77,F,,N,,Y,,,,,,,,L5g,A6
+A3,-oth-,Mental and physical activities for more meaningful and healthy life,A4,A4,A2,A3,A3,A3,A3,A3,15,High,A1,A2   ,A1,71,F,,N,,Y,,,Y,,,,,L5M,A6
+A1,A3,,A5,,A3,A4,A4,A4,A4,A4,20,High,A2,A2   ,A1,62,F,,N,,,,,,,Y,,,L3V,A5
+A1,A3,,A4,,A3,A3,A3,A3,A3,A3,15,High,A2,A2   ,A1,62,F,,N,,,,,,,Y,,,L3V,A5
+A3,-oth-,Helps during pandemic,A4,A4,A4,A4,A4,A3,A3,A4,18,High,A2,A2   ,A1,72,F,,N,,Y,,,,,,,,J4z,A6
+A2,A3,,A4,A2,A3,A2,A2,A2,A3,A2,11,Mid,A2,A1   ,A1,60,NB,,Y,,,,Y,,,,,,L3V,A5
+A2,A4,,A5,A3,A4,A4,A4,A4,A4,A4,20,High,A2,A1   ,A1,,,,,,,,,,,,,,L4R,
+A2,-oth-,all of the above,A5,A4,A3,A4,A4,A4,A4,A4,20,High,A2,A2   ,A1,48,F,,N,,,Y,,,,,,,N0L,A5
+A2,A5,,A5,A2,A2,A2,A2,A2,A2,A3,11,Mid,A1,A2   ,A1,51,F,,N,,,Y,,Y,,,,,N4N,A5
+A1,A5,,A5,,A2,A2,A3,A3,A3,A3,14,Mid,A1,A2   ,A1,43,F,,N,,,Y,,,,,,,P0p,A4
+A2,A3,,A5,A3,A4,A4,A4,A4,A4,A4,20,High,A2,A1   ,A1,28,F,,N,,,Y,,,,,,,L4R,A4
+A2,A2,,A5,A4,A3,A3,A3,A3,A3,A3,15,High,A2,A2   ,A1,36,F,,N,,,Y,,,,,,,P0p,A4
+A1,A5,,A2,,A3,A3,A3,A3,A3,A3,15,High,A2,A2   ,A2,32,F,,N,,,Y,,,,,,,L4N,A4
+A2,A3,,A5,A3,A3,A3,A3,A3,A3,A3,15,High,A2,A2   ,A1,,F,,,,,,,,,,,,P0p,
+A1,A6,,,,A3,A4,A4,A4,A4,A4,20,High,A2,A2   ,RF,33,F,,N,,,,,,,Y,,,L4P,A4
+A3,-oth-,Learn and participate in different activities organizedby MonsterArts and keep active.,A5,A4,A4,A3,A3,A3,A3,A3,15,High,A2,A2   ,A1,70,F,,N,,Y,,,,,,,,L5R,A6
+A1,A3,,,,A1,A1,A2,A3,A2,A1,9,Low,A1,A2   ,RF,44,F,,N,,,,,,,Y,,,L2E,A4
+A1,A4,,,,A3,A3,A3,A3,A3,A3,15,High,A2,A2   ,RF,80,F,,N,,,,,,,Y,,,L9F,A6
+A1,A1,,,,A4,A4,A4,A4,A4,A4,20,High,A2,A2   ,RF,31,M,,N,,,,,,,Y,,,,A4
+A1,-oth-,overall grounded,,,A1,A3,A3,A3,A2,A2,13,Mid,A1,A2   ,RF,45,F,,N,,,Y,,,,,,,P0P,A5
+A1,A5,,,,A2,A3,A2,A3,A3,A3,14,Mid,A1,A2   ,RF,65,F,,N,,,Y,,,,,,,P8N,A6
+A1,A6,,,,A2,A4,A4,A4,A3,A4,19,High,A1,A2   ,RF,58,F,,N,,,,,,,Y,,,L0K,A5
+A1,A5,,,,A3,A4,A4,A3,A4,A3,18,High,A2,A2   ,RF,46,NB,,N,,Y,Y,Y,,,,,,L9M,A5
+A1,A5,,,,A3,A3,A4,A3,A3,A4,17,High,A2,A2   ,RF,55,F,,N,,,Y,,,,,,,p6a,A5
+A1,A5,,,,A1,A4,A4,A4,A3,A4,19,High,A1,A2   ,RF,39,F,,N,,,Y,,,,,,,L9X,A4
+A2,A5,,A2,A1,A3,A3,A2,A3,A2,A4,14,Mid,A2,A1   ,A2,52,F,,N,,,Y,,Y,,,,,L9m,A5
+A1,A5,,,,A3,A4,A4,A3,A3,A4,18,High,A2,A2   ,RF,29,F,,N,,,Y,,,,,,,L9M,A4
+A1,A5,,,,A1,A4,A4,A3,A3,A4,18,High,A1,A2   ,RF,34,F,,N,,,Y,,,,,,,L0m,A4
+A1,A5,,,,A3,A4,A4,A4,A3,A4,19,High,A2,A2   ,RF,50,F,,N,,,Y,,,,,,,L0E,A5
+A2,A6,,A5,A2,A2,A2,A2,A2,A2,A3,11,Mid,A1,A2   ,A1,51,F,,N,,,,,Y,,,,,n4n,A5
+A3,A5,,A4,A2,A3,A4,A4,A4,A4,A4,20,High,A2,A1   ,A1,39,M,,N,,,Y,Y,,,,,,L0K,A4
+A1,A5,,,,A2,A3,A2,A2,A2,A2,11,Mid,A1,A2   ,RF,40,F,,N,,,Y,,,,,,,N3S,A4
+A1,A5,,,,A2,A4,A3,A4,A4,A3,18,High,A1,A2   ,RF,61,F,,N,,,Y,,,,,,,496,A5
+A1,-oth-,Feel More connected to myself,,,A4,A4,A4,A3,A3,A3,17,High,A2,A2   ,RF,49,F,,N,,,Y,,,,,,,L9M,A5
+A1,A5,,,,A2,A3,A4,A4,A3,A4,18,High,A1,A2   ,RF,41,F,,N,,,Y,,,,,,,L1H,A4
+A1,A5,,,,A3,A4,A4,A3,A3,A4,18,High,A2,A2   ,RF,28,F,,N,,,Y,,,,,,,P1b,A4
+A1,A5,,,,A2,A1,A1,A3,A1,A2,8,Low,A1,A2   ,RF,,F,,,,,,,,,,,,L4R,
+A1,A5,,,,A2,A3,A3,A4,A3,A4,17,High,A1,A2   ,RF,57,F,,N,,,Y,,,,,,,L0E,A5
+A1,A5,,,,A4,A4,A4,A4,A4,A4,20,High,A2,A2   ,RF,29,M,,N,,,Y,,,,,,,L9M,A4
+A1,-oth-,Feel more connected to myself,,,A4,A4,A4,A3,A3,A3,17,High,A2,A2   ,RF,49,F,,N,,,Y,,,,,,,L9m,A5
+A1,-oth-,i am open,,,A1,A3,A3,A3,A3,A2,14,Mid,A1,A2   ,RF,45,F,,N,,,Y,,,,,,,P0P,A5
+A1,A5,,,,A3,A4,A4,A3,A4,A4,19,High,A2,A2   ,RF,30,F,,N,,,,Y,,,,,,N4T,A4
+A1,A6,,,,A3,A3,A2,A3,A2,A3,13,Mid,A2,A2   ,RF,37,F,,N,,,,,,,Y,,,L3Y,A4
+A1,A6,,,,A1,A1,A1,A3,A1,A3,9,Low,A1,A2   ,RF,35,F,,N,Y,Y,,,,,,,,L9N,A4
+A1,A6,,,,RF,A1,A1,A1,A1,A1,5,Low,RF,RF   ,RF,28,F,,N,,,,,,,Y,,,L6A,A4
+A1,A4,,,,A1,A2,A3,A1,A1,A3,10,Mid,A1,A2   ,RF,49,F,,N,,,,,Y,,,,,L3X,A5
+A1,A6,,,,A1,A2,A3,A1,A1,A3,10,Mid,A1,A2   ,RF,49,F,,N,,,,,Y,,,,,L3X,A5
+A1,A6,,,,RF,A2,A3,A3,A2,A3,13,Mid,RF,RF   ,RF,57,F,,N,,,,,,,Y,,,L0G,A5
+A1,A6,,,,RF,A2,A3,A3,A2,A3,13,Mid,RF,RF   ,RF,57,F,,N,,,,,,,Y,,,L0G,A5
+A1,A6,,,,RF,A2,A3,A3,A2,A3,13,Mid,RF,RF   ,RF,57,F,,N,,,,,,,Y,,,L0G,A5
+A3,A5,,A5,A2,A3,A4,A4,A4,A4,A4,20,High,A2,A1   ,A1,27,F,,N,,,,Y,,,,,,N4S,A4
+A1,A6,,,,A3,A4,A4,A3,A3,A4,18,High,A2,A2   ,RF,43,F,,N,,Y,,,,,,,,L3T,A4
+A1,A2,,,,A1,A3,A3,A3,A3,A3,15,High,A1,A2   ,RF,,M,,,,,,,,,,,,,
+A1,A4,,,,A2,A2,A3,A2,A3,A3,13,Mid,A1,A2   ,RF,27,F,,N,,,,,,,Y,,,L4P,A4
+A1,A4,,A4,,A4,A3,A4,A4,A3,A4,18,High,A2,A2   ,A1,31,M,,N,,,,,,,Y,,,N2E,A4
+A3,A5,,A4,A2,A4,A4,A4,A4,A3,A4,19,High,A2,A1   ,A1,62,F,,N,,,,,,,Y,,,L6M,A5
+A3,A6,,A5,A3,A4,A3,A4,A4,A4,A4,19,High,A2,A1   ,A1,29,F,,N,,,,Y,,,,,,l5j,A4
+A3,A5,,A4,A3,A4,A4,A4,A4,A3,A4,19,High,A2,A1   ,A1,23,F,,N,,,,,Y,,,,,M8W,A3
+A3,A3,,A5,A2,A4,A4,A4,A4,A4,A4,20,High,A2,A1   ,A1,25,F,,N,,,,,Y,,,,,,A4
+A3,A3,,A4,A3,A3,A3,A3,A3,A3,A2,14,Mid,A2,A2   ,A1,26,F,,N,,,,,Y,,,,,,A4
+A3,A4,,A2,A1,A3,A3,A3,A3,A3,A3,15,High,A2,A1   ,A2,24,F,,N,,,Y,,,,,,,L9E,A3
+A3,A5,,A4,A1,A3,A3,A3,A3,A3,A3,15,High,A2,A1   ,A1,,M,,,,,,,,,,,,N2L,
+A3,A3,,A5,A4,A3,A3,A3,A3,A3,A3,15,High,A2,A2   ,A1,,RF,,,,,,,,,,,,L9t,
+A2,A5,,A4,A2,A3,A3,A3,A3,A3,A3,15,High,A2,A1   ,A1,,F,,,,,,,,,,,,L5n,
+A2,A4,,A5,A1,A3,A4,A4,A4,A3,A4,19,High,A2,A1   ,A1,22,F,,N,,Y,,Y,Y,,,,,L5K,A3
+A3,A3,,A1,A3,A2,A3,A4,A3,RF,A3,13,Mid,A1,A2   ,A2,,F,,,,,,,,,,,,N2L,
+A2,A2,,A4,A2,A3,A3,A4,A3,RF,A4,14,Mid,A2,A1   ,A1,29,F,,N,,,,,,,,,Y,L6V,A4
+A2,A6,,A4,A2,A2,A3,A3,A3,A3,A3,15,High,A1,A2   ,A1,,F,,,,,,,,,,,,L6X,
+A3,A4,,A5,A1,A3,A3,A4,A3,A4,A4,18,High,A2,A1   ,A1,26,F,,N,,,,,Y,,,,,,A4
+A3,A3,,A4,A4,A2,A2,A3,A3,A3,A3,14,Mid,A1,A2   ,A1,14,M,,N,,,,,,,Y,,,,A2
+A3,A3,,A4,A1,A3,A3,RF,A3,A2,RF,8,Low,A2,A1   ,A1,22,M,,N,,,,,Y,,,,,n1k,A3
+A1,A6,,,,A1,A2,A3,A2,A3,A3,13,Mid,A1,A2   ,RF,58,F,,N,,,,,,,Y,,,L3Y,A5
+A3,A3,,A4,RF,A2,A3,A4,A4,A4,A4,19,High,A1,RF   ,A1,16,NB,,Y,,,,Y,,,,,,N5C,A2
+A3,A5,,A5,A2,A3,A4,A4,A4,A4,A4,20,High,A2,A1   ,A1,27,F,,N,,,,Y,,,,,,N4S,A4
+A3,-oth-,Feel more connected to the epilepsy community,A4,A2,A2,A4,A4,A4,A4,A4,20,High,A1,A2   ,A1,27,M,,N,Y,,,,,,,,,L5B,A4
+A3,-oth-,,A2,A4,A3,A3,A3,A3,A3,A3,15,High,A2,A2   ,A2,55,M,,N,,,,Y,,,,,,N4S,A5
+A2,A4,,A5,A4,A3,A4,A4,A4,A4,A4,20,High,A2,A2   ,A1,28,F,,N,,,,,,,Y,,,L5G,A4
+A1,A1,,A2,,A3,A3,A3,A3,A4,A3,16,High,A2,A2   ,A2,27,F,,N,,,,,,,,,Y,L4T,A4
+A1,A6,,,,A3,A2,A2,A2,A3,A2,11,Mid,A2,A2   ,RF,56,F,,N,,Y,,,,,,,,L4J,A5
+A3,A3,,A2,A3,A1,A2,A3,A3,A2,A3,13,Mid,A1,A2   ,A2,23,F,,N,,,,,,,Y,,,,A3
+A1,A3,,A4,,A3,,,,,,0,RF,A2,A2   ,A1,,F,,,,,,,,,,,,,
+A3,A5,,A5,A2,A4,,,,,,0,RF,A2,A1   ,A1,82,F,,N,,,,,,,Y,,,M3H,A6
+A3,A5,,A5,A2,A3,,,,,,0,RF,A2,A1   ,A1,70,F,,N,,,,,,,Y,,,L9L,A6
+A3,A5,,A5,A3,A3,,,,,,0,RF,A2,A2   ,A1,73,F,,N,,,,,Y,,,,,M4S,A6
+A2,A2,,A5,A2,A2,,,,,,0,RF,A1,A2   ,A1,75,F,,N,,,,,,,Y,,,M4G,A6
+A2,A2,,A4,A4,A4,,,,,,0,RF,A2,A2   ,A1,68,F,,N,,,,,,,Y,,,,A6
+A2,A2,,A4,A2,A3,,,,,,0,RF,A2,A1   ,A1,67,F,,N,,,,,,Y,,,,M5A,A6
+A2,A5,,A2,A3,A3,,,,,,0,RF,A2,A2   ,A2,77,F,,N,,,,,,,Y,,,M4R,A6
+A3,A2,,A4,A3,A3,,,,,,0,RF,A2,A2   ,A1,74,F,,N,,,,,,,Y,,,m2j,A6
+A3,-oth-,Discuss a topic of interest for other opinions and insights,A4,A4,A4,,,,,,0,RF,A2,A2   ,A1,75,F,,N,,,,,,,Y,,,M5M,A6
+A3,-oth-,Learn,A4,A3,A3,,,,,,0,RF,A2,A2   ,A1,69,F,,N,,,,,,,Y,,,M2N,A6
+A1,A5,,A4,,A2,,,,,,0,RF,A1,A2   ,A1,68,F,,N,,Y,,,,,,,,M6R,A6
+A1,-oth-,To discuss common interests with other people,A2,,A2,,,,,,0,RF,A1,A2   ,A2,68,F,,N,,Y,,,,,,,,M6R,A6
+A1,-oth-,explore new adventures,A5,,A4,,,,,,0,RF,A2,A2   ,A1,72,F,,N,,,,,,,Y,,,L0J,A6
+A2,-oth-,Share interests,A4,A2,A3,,,,,,0,RF,A2,A1   ,A1,65,F,,N,,,,,,,Y,,,M5M,A6
+A3,A3,,A5,A2,A2,,,,,,0,RF,A1,A2   ,A1,68,F,,N,,,,,,,Y,,,M4p,A6
+A3,A3,,A5,A4,A4,A4,A4,A4,A4,A4,20,High,A2,A2   ,A1,,M,,,,,,,,,,,,l5g,
+A2,A2,,A4,A3,A3,,,,,,0,RF,A2,A2   ,A1,68,F,,N,,,,,,,Y,,,M3H,A6
+A2,A3,,A5,A2,A4,A4,A3,A1,A3,A3,14,Mid,A2,A1   ,A1,28,RF,,RF,,Y,,,Y,,,,,L5j,A4
+A3,A6,,A5,A4,A4,A3,A3,A3,A3,A3,15,High,A2,A2   ,A1,,RF,,,,,,,,,,,,l5g,
+A3,A5,,A4,A3,A3,,,,,,0,RF,A2,A2   ,A1,73,F,,N,,,,,,,Y,,,M6K,A6
+A3,A5,,A4,A3,A3,,,,,,0,RF,A2,A2   ,A1,73,F,,N,,,,,,,Y,,,M6K,A6
+A1,-oth-,"Connected, mentally active, feeling less alone",A5,,A3,,,,,,0,RF,A2,A2   ,A1,69,F,,N,,,,,,,,,Y,K0L,A6
+A2,A5,,A5,A3,A4,,,,,,0,RF,A2,A1   ,A1,72,,,N,,,,,,,Y,,,T6t,A6
+A2,A5,,A4,,A3,,,,,,0,RF,A2,A2   ,A1,,F,,,,,,,,,,,,M5R,
+A2,A2,,A4,A3,A3,,,,,,0,RF,A2,A2   ,A1,74,F,,N,,,,,,,Y,,,M4V,A6
+A2,A2,,A4,A3,A3,,,,,,0,RF,A2,A2   ,A1,74,F,,N,,,,,,,Y,,,M4V,A6
+A3,A5,,A5,A3,A3,,,,,,0,RF,A2,A2   ,A1,72,M,,N,,,,,,,Y,,,M5N,A6
+A3,A2,,A5,A2,A3,,,,,,0,RF,A2,A1   ,A1,,F,,,,,,,,,,,,M2K,
+A2,A2,,A4,A3,A3,,,,,,0,RF,A2,A2   ,A1,,F,,,,,,,,,,,,M6H,
+A2,A2,,A2,A3,A2,,,,,,0,RF,A1,A2   ,A2,77,F,,N,,,,,Y,,Y,,,M5M,A6
+A2,A3,,A5,A2,A2,,,,,,0,RF,A1,A2   ,A1,67,F,,N,,,,,,,Y,,,M5S,A6
+A3,A5,,A5,A2,A3,,,,,,0,RF,A2,A1   ,A1,68,RF,,RF,,,,,,,,,Y,,A6
+A2,A3,,A5,A1,A3,,,,,,0,RF,A2,A1   ,A1,84,F,,N,,,,,,,Y,,,,A6
+A3,-oth-,Provide a social/ cultural opportunity for my club.,A5,A3,A4,,,,,,0,RF,A2,A1   ,A1,68,F,,N,,,,,,,Y,,,M4S,A6
+A2,A2,,A2,A3,A2,,,,,,0,RF,A1,A2   ,A2,72,F,,N,,,,,,,Y,,,M2n,A6
+A2,A3,,A2,A2,A2,,,,,,0,RF,A1,A2   ,A2,65,F,,N,,,,,,,Y,,,M4m,A6
+A2,-oth-,discuss the films,A5,A2,A3,,,,,,0,RF,A2,A1   ,A1,73,F,,N,,,,,,,Y,,,M5A,A6
+A1,A6,,,,RF,A2,A3,A2,A2,A2,11,Mid,RF,RF   ,RF,30,F,,N,,,,,,,Y,,,L3R,A4
+A2,A3,,A4,A2,A2,,,,,,0,RF,A1,A2   ,A1,65,M,,N,,,,,Y,,,,,m3h,A6
+A3,-oth-,discuss good films,A5,A4,A4,,,,,,0,RF,A2,A2   ,A1,,F,,,,,,,,,,,,M4G,
+A1,A6,,,,RF,A2,A2,A3,A2,A2,11,Mid,RF,RF   ,RF,30,F,,N,,,,,,,Y,,,L3R,A4
+A3,A3,,A5,A2,A4,A4,A4,A3,A4,A4,19,High,A2,A1   ,A1,27,F,,N,,,,Y,Y,,,,,N2L,A4
+A3,A4,,A4,A1,A4,A4,A4,A4,A4,A4,20,High,A2,A1   ,A1,24,F,,N,,,,Y,,,,,,N2L,A3
+A3,A2,,A4,A3,A2,,,,,,0,RF,A1,A2   ,A1,,F,,,,,,,,,,,,M4S,
+A1,A6,,,,A3,A3,A3,A2,A4,A3,15,High,A2,A2   ,RF,36,F,,N,,Y,,,,,,,,L4A,A4
+A1,A4,,,,A3,A3,A3,A2,A3,A3,14,Mid,A2,A2   ,RF,36,F,,N,,Y,,,,,,,,L4A,A4
+A1,A4,,,,A1,A4,A3,A3,A1,A1,12,Mid,A1,A2   ,RF,40,F,,N,,,,,,,Y,,,L9N,A4
+A1,A6,,,,A1,A3,A3,A2,A1,A4,13,Mid,A1,A2   ,RF,23,F,,N,,,,,,,Y,,,L3R,A3
+A1,A3,,A4,,A2,,,,,,0,RF,A1,A2   ,A1,,M,,,,,,,,,,,,l6m,
+A2,A3,,A4,A4,A4,,,,,,0,RF,A2,A2   ,A1,,F,,,,,,,,,,,,L6M,
+A3,A3,,A5,A3,A4,,,,,,0,RF,A2,A1   ,A1,75,F,,N,,,,,,,Y,,,L7M,A6
+A2,A5,,A4,A2,A3,,,,,,0,RF,A2,A1   ,A1,77,F,,N,,,,,,,Y,,,L7M,A6
+A3,A6,,A5,A2,A4,,,,,,0,RF,A2,A1   ,A1,,F,,,,,,,,,,,,,
+A2,A3,,A5,A3,A3,,,,,,0,RF,A2,A2   ,A1,74,F,,N,,,,,,,Y,,,L7P,A6
+A2,A6,,A5,A4,A4,,,,,,0,RF,A2,A2   ,A1,83,F,,,,,,,,,Y,,,L7T,A6
+A1,A2,,A5,,A2,,,,,,0,RF,A1,A2   ,A1,84,M,,N,,,,,,,Y,,,L6L,A6
+A2,-oth-,"Enjoy the program, entertainment, feel more relaxed",A5,A4,A3,,,,,,0,RF,A2,A2   ,A1,59,F,,N,,,Y,,,,,,,L6K,A5
+A3,A6,,A4,A3,A3,,,,,,0,RF,A2,A2   ,A1,73,F,,N,,,,,,,Y,,,L7P,A6
+A1,A4,,A2,,A2,,,,,,0,RF,A1,A2   ,A2,85,F,,N,,,,,,,Y,,,L6H,A6
+A1,A2,,A4,,A2,,,,,,0,RF,A1,A2   ,A1,72,M,,N,,,,,,,Y,,,L7M,A6
+A3,-oth-,Activity for my mom,A4,A2,A2,,,,,,0,RF,A1,A2   ,A1,62,F,,N,,,,,,,Y,,,L6k,A5
+A3,A2,,A4,A3,A3,,,,,,0,RF,A2,A2   ,A1,87,F,,N,,,,,,,Y,,,L7T,A6
+A2,A5,,A4,A2,A3,,,,,,0,RF,A2,A1   ,A1,41,F,,N,,Y,,,,,,,,L5R,A4
+A2,A5,,A4,A2,A3,,,,,,0,RF,A2,A1   ,A1,41,F,,N,,Y,,,,,,,,L5R,A4
+A1,A3,,RF,,,,,,,,0,RF,RF,A2   ,RF,73,M,,N,Y,Y,Y,,Y,Y,,,,L5M,A6
+A1,A3,,A4,,A3,,,,,,0,RF,A2,A2   ,A1,77,M,,N,,,,,,,Y,,,L6L,A6
+A2,A5,,A4,A2,A3,,,,,,0,RF,A2,A1   ,A1,41,F,,N,,Y,,,,,,,,L5R,A4
+A1,A4,,A1,,A2,,,,,,0,RF,A1,A2   ,A2,76,F,,N,,,,,,,Y,,,L5M,A6
+A3,A3,,A5,A3,A3,,,,,,0,RF,A2,A2   ,A1,53,F,,N,,,,,,,Y,,,L7p,A5
+A1,-oth-,All of the above,A2,,A3,,,,,,0,RF,A2,A2   ,A2,84,F,,N,,,,,Y,,,,,L6L,A6
+A1,A3,,A2,,A2,,,,,,0,RF,A1,A2   ,A2,,M,,,,,,,,,,,,L5L,
+A3,A5,,A4,A2,A4,,,,,,0,RF,A2,A1   ,A1,74,F,,N,,,,,,,Y,,,L7M,A6
+A1,A2,,A4,,A1,,,,,,0,RF,A1,A2   ,A1,87,M,,N,,,,,,,Y,,,L6H,A6
+A1,,,A2,,A3,,,,,,0,RF,A2,A2   ,A2,85,F,,N,,,,,,,Y,,,,A6
+A2,-oth-,Feel supported as I struggle to be a good caregiver for my loved one.,A2,A1,RF,,,,,,0,RF,RF,RF   ,A2,65,F,,N,,,,,,,,,Y,L7G,A6
+A1,A3,,A5,,A3,,,,,,0,RF,A2,A2   ,A1,86,M,,DK,,,,,,,Y,,,l6l,A6
+A2,A5,,A4,A3,A3,A3,A3,A3,A3,A3,15,High,A2,A2   ,A1,84,F,,N,,,,,,,,,,L5M,A6
+A1,A5,,A5,,A3,A3,A3,A3,A4,A3,16,High,A2,A2   ,A1,73,F,,N,,,,,,,,,Y,L6V,A6
+A3,A3,,A4,A2,A3,A3,A2,A3,A2,A2,12,Mid,A2,A1   ,A1,70,F,,RF,,,,,,,,Y,,L5M,A6
+A1,A5,,A4,,A2,A2,RF,A3,RF,RF,5,Low,A1,A2   ,A1,,F,,,,,,,,,,,,L5M,
+A1,A5,,A4,,A2,A2,A2,RF,A3,RF,7,Low,A1,A2   ,A1,69,F,,N,,,,,,,,,Y,L5M,A6
+A2,A1,,A4,A3,A2,A4,A3,A3,A3,A3,16,High,A1,A2   ,A1,63,F,,,,,,,,,,,,,A5
+A1,A5,,A2,,A2,RF,RF,A3,RF,A3,6,Low,A1,A2   ,A2,69,F,,N,,,,,,,,,Y,L5M,A6
+A3,A6,,A5,,A4,A4,A4,A4,A4,A4,20,High,A2,A2   ,A1,,F,,,,,,,,,,,,M9N,
+A1,A4,,A2,,A3,A3,A3,A3,A3,A3,15,High,A2,A2   ,A2,55,NB,,N,,,,Y,,,,,,,A5
+A1,A5,,A4,,A3,A4,A3,A3,A3,A4,17,High,A2,A2   ,A1,72,F,,N,,Y,,,,,,,,L5M,A6
+A1,A6,,,,A1,A2,A2,A2,A2,A2,10,Mid,A1,A2   ,RF,71,F,,N,,,,,,,Y,,,,A6
+A1,A6,,,,A1,A2,A2,A2,A2,A2,10,Mid,A1,A2   ,RF,71,F,,N,,,,,,,Y,,,L9N,A6
+A3,A4,,A5,A4,A3,,,,,,0,RF,A2,A2   ,A1,73,F,,N,,,,,,,Y,,,L7M,A6
+A1,A5,,A4,,A3,,,,,,0,RF,A2,A2   ,A1,55,F,,N,,Y,,,,,,,,L5v,A5
+A1,A4,,A2,,A3,A3,A3,A3,A3,A3,15,High,A2,A2   ,A2,55,M,,N,,,,Y,,,,,,L5G,A5
+A3,A5,,A5,A4,A4,A4,A4,A4,A4,A4,20,High,A2,A2   ,A1,57,F,,DK,,,,,,,,,,,A5
+A1,A4,,A5,,A4,A4,A4,A4,A4,A4,20,High,A2,A2   ,A1,28,F,,N,,,,,,,Y,,,N2A,A4
+A1,A4,,A4,,A4,,,,,,0,RF,A2,A2   ,A1,28,F,,N,,,,,,,Y,,,N2A,A4
+A1,A6,,A4,,A2,,,,,,0,RF,A1,A2   ,A1,83,F,,N,,,,,,,Y,,,L7P,A6
+A1,-oth-,Invoke. Imagination,A2,,A2,A3,,A3,A2,A3,11,Mid,A1,A2   ,A2,,,,,,,,,,,,,,,
+A1,A6,,A2,,A2,A4,A4,A4,A4,A4,20,High,A1,A2   ,A2,,M,,,,,,,,,,,,L9G,
+A2,A3,,A4,A3,A4,A3,A3,A3,A3,A3,15,High,A2,A1   ,A1,40,F,,N,,,,,Y,,,,,,A4
+A3,-oth-,"Feel less alone, have someone I can talk to about my problems and the emotional support and guidance with my experience.",A4,A1,A2,A3,A3,A3,A3,A4,16,High,A1,A1   ,A1,31,F,,N,,Y,,,,,,,,L6V,A4
+A2,-oth-,have people to talk to about dementia,A5,A1,A4,,,,,,0,RF,A2,A1   ,A1,60,F,,N,,,,,,,Y,,,L7M,A5
+A1,A5,,A1,,A2,A2,A2,A2,A2,A2,10,Mid,A1,A2   ,A2,41,F,,N,,,,,Y,,,,,L9c,A4
+A3,A2,,A5,A2,A4,A4,A4,A4,A4,A4,20,High,A2,A1   ,A1,37,F,,N,,,,,,,Y,,,L9C,A4
+A3,A6,,A4,A1,A2,A3,A3,A3,A3,A3,15,High,A1,A1   ,A1,31,F,,N,,Y,,,,,,,,L6V,A4
+A3,A2,,A5,A3,A4,A4,A4,A4,A4,A1,17,High,A2,A1   ,A1,37,F,,N,,,,,,,Y,,,L9C,A4
+A2,A6,,A2,A3,A2,A2,A2,A2,A2,A2,10,Mid,A1,A2   ,A2,62,M,,RF,,,,,,,,,Y,n3p,A5
+A1,A4,,,,A2,A1,A3,A3,A2,A3,12,Mid,A1,A2   ,RF,38,F,,N,,,,,Y,,,,,L4G,A4
+A1,A4,,A2,,A2,,,,,,0,RF,A1,A2   ,A2,75,F,,N,,,,,,,Y,,,L5M,A6
+A1,A3,,A1,,A1,,,,,,0,RF,A1,A2   ,A2,75,F,,N,,,,,,,Y,,,L5M,A6
+A1,A4,,,,A3,A3,A3,A3,A3,A3,15,High,A2,A2   ,RF,27,F,,N,,,,,,,Y,,,L9N,A4
+A1,A6,,RF,,RF,A4,A4,A4,A4,A3,19,High,RF,RF   ,RF,48,F,,N,,,,,,,Y,,,N1E,A5
+A1,A4,,A4,,A3,RF,RF,RF,RF,RF,0,RF,A2,A2   ,A1,21,M,,N,Y,,,,,,,,,,A3
+A3,A4,,A5,A1,A4,A4,A4,A4,A4,A4,20,High,A2,A1   ,A1,27,F,,N,,,,,,,Y,,,L4P,A4
+A2,A2,,A2,A2,A3,,,,,,0,RF,A2,A1   ,A2,73,F,,N,,,,,,,Y,,,M6H,A6
+A1,A5,,A2,,A3,,,,,,0,RF,A2,A2   ,A2,77,F,,N,,,,,,,Y,,,m4r,A6
+A2,A5,,A5,A3,A4,,,,,,0,RF,A2,A1   ,A1,75,F,,N,,,,,,,Y,,,M4E,A6
+A2,A5,,A5,A3,A4,,,,,,0,RF,A2,A1   ,A1,75,F,,N,,,,,,,Y,,,M4E,A6
+A1,A5,,A2,,A2,,,,,,0,RF,A1,A2   ,A2,70,F,,N,,Y,,,,,,,,M4P,A6
+A2,-oth-,To talk about the film featured with others and at times with producers,A4,A2,A3,,,,,,0,RF,A2,A1   ,A1,77,F,,N,,,,,,,Y,,,M4R,A6
+A2,A3,,A2,A1,A2,,,,,,0,RF,A1,A1   ,A2,61,F,,N,,,,,,,Y,,,M4B,A5
+A2,A5,,A4,A2,A3,,,,,,0,RF,A2,A1   ,A1,65,F,,N,,,,,,,Y,,,M5M,A6
+A2,A5,,A4,A2,A3,,,,,,0,RF,A2,A1   ,A1,65,F,,N,,,,,,,Y,,,M5M,A6
+A3,A3,,A5,A1,A3,,,,,,0,RF,A2,A1   ,A1,84,F,,N,,,,,,,Y,,,,A6
+A2,A2,,A4,A4,A4,,,,,,0,RF,A2,A2   ,A1,69,F,,N,,,,,,,Y,,,M4t,A6
+A2,A2,,A5,A4,A4,,,,,,0,RF,A2,A2   ,A1,69,F,,N,,,,,,,Y,,,,A6
+A3,A5,,A4,A2,A3,,,,,,0,RF,A2,A1   ,A1,70,RF,,RF,,,,,,,Y,,,M5E,A6
+A3,A5,,A4,A2,A3,,,,,,0,RF,A2,A1   ,A1,75,RF,,RF,,,,,,,Y,,,M5E,A6
+A2,A5,,A4,A2,A2,,,,,,0,RF,A1,A2   ,A1,72,M,,N,,,,,,,Y,,,m2n,A6
+A2,A5,,A2,A2,A2,,,,,,0,RF,A1,A2   ,A2,66,F,,N,,,,,Y,,,,,M4N,A6
+A3,A2,,A4,A3,A3,,,,,,0,RF,A2,A2   ,A1,78,F,,N,,,,,,,Y,,,M6R,A6
+A2,A2,,A2,A2,A2,,,,,,0,RF,A1,A2   ,A2,59,F,,N,,Y,,,,,,,,L3R,A5
+A2,A5,,A2,A2,A2,,,,,,0,RF,A1,A2   ,A2,59,F,,N,,Y,,,,,,,,L3R,A5
+A2,-oth-,To engage with a positive groups that is not discussion  and to learn something new,A5,A3,A3,,,,,,0,RF,A2,A2   ,A1,74,F,,N,,,,,,,Y,,,L!A,A6
+A2,A5,,A4,A3,A4,,,,,,0,RF,A2,A1   ,A1,74,F,,N,,,,,,,Y,,,L1A,A6
+A1,A6,,A5,,A3,,,,,,0,RF,A2,A2   ,A1,72,F,,N,,,,,,,Y,,,L0J,A6
+A1,A6,,A5,,A3,,,,,,0,RF,A2,A2   ,A1,71,F,,N,,,,,,,Y,,,L0J,A6
+A2,-oth-,I enjoy film,A4,A2,A3,,,,,,0,RF,A2,A1   ,A1,65,F,,N,,,,,,,Y,,,M4m,A6
+A3,A5,,A4,A3,A3,,,,,,0,RF,A2,A2   ,A1,,F,,,,,,,,,,,,M4E,
+A2,A2,,A4,A3,A3,,,,,,0,RF,A2,A2   ,A1,69,F,,N,,,,,,,Y,,,L3T,A6
+A3,A5,,A4,A2,A3,,,,,,0,RF,A2,A1   ,A1,67,F,,N,,,,,,,Y,,,M2P,A6
+A3,-oth-,Discuss watch movies,A5,A2,A3,,,,,,0,RF,A2,A1   ,A1,64,F,,N,,,,,,,Y,,,,A5
+A3,A5,,A4,A3,A4,,,,,,0,RF,A2,A1   ,A1,72,M,,N,,,,,,,Y,,,M5N,A6
+A2,A5,,A5,A2,A3,,,,,,0,RF,A2,A1   ,A1,69,F,,N,,,,,,,Y,,,L4J,A6
+A2,A3,,A4,A2,A3,,,,,,0,RF,A2,A1   ,A1,69,F,,N,,,,,,,Y,,,l4j,A6
+A2,A5,,A5,A1,A3,,,,,,0,RF,A2,A1   ,A1,68,F,,N,,Y,,,,,,,,M6R,A6
+A2,A5,,A4,A2,A3,,,,,,0,RF,A2,A1   ,A1,68,F,,N,,Y,,,,,,,,M6R,A6
+A2,A5,,A4,A2,A3,,,,,,0,RF,A2,A1   ,A1,68,F,,N,,Y,,,,,,,,M6R,A6
+A2,A5,,A4,A4,A4,,,,,,0,RF,A2,A2   ,A1,83,F,,N,,,,,,,Y,,,,A6
+A1,A4,,A5,,A4,A4,A4,A4,A4,A4,20,High,A2,A2   ,A1,80,F,,N,,,,,,,Y,,,L9F,A6
+A2,A5,,A2,A4,A4,,,,,,0,RF,A2,A2   ,A2,58,F,,N,,,,,,,Y,,,M6S,A5
+A3,A2,,A5,A3,A3,,,,,,0,RF,A2,A2   ,A1,64,F,,N,,,,,,,Y,,,m2h,A5
+A2,A6,,A2,A3,A3,,,,,,0,RF,A2,A2   ,A2,63,F,,N,,,,,,,Y,,,L7M,A5
+A1,A4,,A4,,A3,,,,,,0,RF,A2,A2   ,A1,63,F,,N,,,,,,,Y,,,L7M,A5
+A2,A5,,A2,A2,A3,,,,,,0,RF,A2,A1   ,A2,67,F,,N,,,,,,,Y,,,M5P,A6
+A1,A2,,RF,,A2,A4,A4,A4,RF,A4,16,High,A1,A2   ,RF,36,F,,N,,Y,,,,,,,,L6Y,A4
+A3,A1,,A4,A1,A2,A4,A4,A4,A3,A3,18,High,A1,A1   ,A1,,F,,,,,,,,,,,,L1j,
+A2,-oth-,learn new things and being connected,A5,A3,A4,A3,A3,RF,RF,RF,6,Low,A2,A1   ,A1,35,F,,N,,,,,,,Y,,,L1T,A4
+A3,A1,,A4,A1,A3,A4,A4,A4,A4,A4,20,High,A2,A1   ,A1,,F,,,,,,,,,,,,L1j,
+A2,A5,,A5,A3,A3,A3,A3,A3,A3,A3,15,High,A2,A2   ,A1,,F,,,,,,,,,,,,L1V,
+A3,A5,,A4,A3,A3,A3,A3,A3,A3,A3,15,High,A2,A2   ,A1,75,F,,N,,,,,,,Y,,,L1v,A6
+A2,A5,,RF,A3,A4,A3,A2,A2,A3,A2,12,Mid,A2,A1   ,RF,31,F,,N,,,,,,,Y,,,L1h,A4
+A1,A5,,,,A3,A4,A4,A3,A3,A4,18,High,A2,A2   ,RF,29,F,,N,,,,,,,Y,,,L4P,A4
+A1,A5,,A5,,A4,A3,A3,A3,A3,A3,15,High,A2,A2   ,A1,89,F,,N,,Y,,,,,,,,L6R,A6
+A2,A5,,A5,A4,A4,A4,RF,A3,A3,A3,13,Mid,A2,A2   ,A1,54,RF,,N,,,,,,,,,Y,,A5
+A1,A1,,A2,,RF,,,,,,0,RF,RF,RF   ,A2,78,F,,N,,,,,,,,,,,A6
+A1,A5,,A4,,A3,A3,A3,A3,A3,A3,15,High,A2,A2   ,A1,54,F,,N,,Y,,,,,,,,L4T,A5
+A3,A5,,A5,A4,A4,A4,A3,A3,A4,A3,17,High,A2,A2   ,A1,,,,,,,,,,,,,,L6R,
+A1,A5,,A5,,A4,A3,A4,A4,A4,A4,19,High,A2,A2   ,A1,76,M,,N,,Y,,,,,,,,,A6
+A1,A3,,,,A2,A4,A4,A3,A3,A4,18,High,A1,A2   ,RF,76,F,,N,,,,,,,Y,,,L1V,A6
+A1,A5,,A4,,A3,A4,A4,A4,A3,A3,18,High,A2,A2   ,A1,76,M,,N,,Y,,,,,,,,R2P,A6
+A3,A6,,A5,A3,A4,A3,A4,A4,A4,A4,19,High,A2,A1   ,A1,74,F,,DK,,,,,,,,,Y,,A6
+A3,A5,,A5,A4,A3,A3,A3,A4,A4,A4,18,High,A2,A2   ,A1,74,F,,N,,,,,,,Y,,,L7A,A6
+A1,A5,,,,A2,A2,A3,A2,A2,A2,11,Mid,A1,A2   ,RF,31,F,,N,,,,,,,,,,,A4
+A1,A4,,A5,,A4,A4,A4,A4,A4,A4,20,High,A2,A2   ,A1,27,F,,N,,,,,,,,,,L4P,A4
+A3,A6,,A4,A2,A3,,,,,,0,RF,A2,A1   ,A1,56,F,,N,,,,,,,Y,,,,A5
