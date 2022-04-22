@@ -3,7 +3,6 @@ import json
 from datetime import date
 
 today = date.today()
-
 class Indicators(object):
     def __init__(self, indicatorName,indicatorDescription,indicatorReportName, indicatorReportValue):
         self.indicatorName = indicatorName
@@ -12,14 +11,6 @@ class Indicators(object):
         self.indicatorReportValue = indicatorReportValue
 
 
-
-
-
-#numerator is percentage of people who report somewhat strong or very strong
-#denomenator is total number of participents who responded to both
-
-#numerator is number of participants who reported an increase in sense of belonging
-#denomenator is total number of participents who responded to both
 with open ('Anonymized dataset - Connected People 3-2 - 2022-03-07 (1).csv', 'r') as f1:
     reader = csv.reader(f1)
     next(reader)
