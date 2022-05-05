@@ -68,7 +68,7 @@ for index, obj in enumerate(IndicatorOptions):
             "issuedBy": "http://https://www.canada.ca/en/revenue-agency.html",
             "identifier": "12345678"
         },
-        "hasLegalName": "Logical Outcomes"
+        "hasLegalName": "LogicalOutcomes Canada"
     },
     {
         "@context": "http://ontology.eil.utoronto.ca/cids/contexts/OutcomeContext.json",
